@@ -1,0 +1,103 @@
+Word,Label
+3/18/22,CARDINAL
+12:53 AM,TIME
+five-year,DATE
+the Western Pacific,LOC
+five-year,DATE
+the Western Pacific,LOC
+October 2019,DATE
+37,CARDINAL
+the World Health Organization,ORG
+Western Pacific Region,LOC
+today,DATE
+WHO,ORG
+the coming five years,DATE
+the Western Pacific,LOC
+The WHO Regional Committee,ORG
+the Western Pacific,LOC
+today,DATE
+Regional,NORP
+Takeshi Kasai,PERSON
+WHO,ORG
+the Regional Committee,ORG
+today,DATE
+WHO,ORG
+the coming five years,DATE
+solidarity,ORG
+Dr Kasai,PERSON
+four,CARDINAL
+1,CARDINAL
+2,CARDINAL
+3,CARDINAL
+1/3,CARDINAL
+3/18/22,CARDINAL
+12:53 AM,TIME
+five-year,DATE
+the Western Pacific,LOC
+4,CARDINAL
+February,DATE
+Region,ORG
+three,CARDINAL
+Dr Kasai,PERSON
+Second,ORDINAL
+WHO,ORG
+Third,ORDINAL
+the Regional Committee,ORG
+@WHOWPRO,ORG
+Twitter,PRODUCT
+YouTube,ORG
+194,CARDINAL
+six,CARDINAL
+WHO,ORG
+the United Nations,ORG
+Member States,GPE
+annually,DATE
+37,CARDINAL
+Australia,GPE
+Brunei Darussalam,GPE
+Cambodia,GPE
+China,GPE
+Cook Islands,GPE
+Fiji,GPE
+France,GPE
+French,NORP
+Polynesia,PERSON
+New Caledonia,GPE
+Wallis and Futuna,PERSON
+Hong Kong,GPE
+China,GPE
+Japan,GPE
+Kiribati,GPE
+Macao,GPE
+China,GPE
+Malaysia,GPE
+the Marshall Islands,GPE
+Micronesia,PERSON
+Federated States,GPE
+Mongolia,GPE
+Nauru,GPE
+New Zealand,GPE
+Niue,GPE
+Palau,GPE
+Papua New Guinea,GPE
+Philippines,GPE
+the Republic of Korea,GPE
+Samoa,GPE
+Singapore,GPE
+Solomon Islands,GPE
+Tokelau,GPE
+Tonga,GPE
+2/3,CARDINAL
+3/18/22,CARDINAL
+12:53 AM,TIME
+five-year,DATE
+the Western Pacific,LOC
+the United Kingdom of Great Britain,GPE
+Northern Ireland,GPE
+Pitcairn Islands,GPE
+the United States of America,GPE
+American Samoa,ORG
+Guam,GPE
+Vanuatu,ORG
+Viet Nam,GPE
+3/3,CARDINAL

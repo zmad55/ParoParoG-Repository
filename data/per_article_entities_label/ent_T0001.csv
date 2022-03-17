@@ -1,0 +1,60 @@
+Word,Label
+12:52 AM,TIME
+MANILA,GPE
+PHILIPPINES,GPE
+Asia,LOC
+Pacific,LOC
+UHC,ORG
+today,DATE
+Asia,LOC
+Pacific,LOC
+COVID-19,PERSON
+Beyond,PRODUCT
+the World Health Organization,ORG
+the Western Pacific,ORG
+Takeshi Kasai,PERSON
+COVID-19,PERSON
+https://www.who.int/westernpacific/news/item/17-09-2020-asia-pacific-health-and-finance-ministers-stress-importance-of-universal-health-coverage-in-,PERSON
+1/2,CARDINAL
+3/18/22,PRODUCT
+12:52 AM,TIME
+WHO,ORG
+South-East Asia,LOC
+the Western Pacific,LOC
+the Asian Development Bank,ORG
+Japan,GPE
+UHC,ORG
+G20,ORG
+Osaka,GPE
+June 2019,DATE
+the United Nations,ORG
+UHC,ORG
+New York,GPE
+September 2019,DATE
+today,DATE
+Fiji,GPE
+Indonesia,GPE
+the Republic of Korea,GPE
+Philippines,GPE
+Sri Lanka,GPE
+Viet Nam,GPE
+2019,DATE
+UHC,ORG
+the past decade,DATE
+UHC,ORG
+up to,PERCENT
+60%,PERCENT
+more than 1,CARDINAL
+5,CARDINAL
+over 10%,PERCENT
+UHC,ORG
+the Western Pacific,LOC
+Future,ORG
+the coming years,DATE
+Masatsugu Asakawa,PERSON
+UHC,ORG
+Asia,LOC
+Pacific,LOC
+the Western Pacific,LOC
+the Western Pacific Region,LOC
+2/2,CARDINAL
