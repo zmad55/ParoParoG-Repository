@@ -1,56 +1,104 @@
 Word,Label
-12:52 AM,TIME
-Contact Tracing  Western Pacific Philippines,ORG
+9:27 PM,TIME
+amfAR,PERSON
 Philippines,GPE
-November 2021,DATE
-Itogon,GPE
-Benguet,ORG
-Gladys Gapongli,PERSON
-Itogon,GPE
-Benguet,ORG
+amfAR,PERSON
 Philippines,GPE
-one,CARDINAL
-400,CARDINAL
-the Home as Active Advocate and Network,ORG
-HAAN COVID,WORK_OF_ART
-Families Choice for Health and Development,ORG
-Civil Society Organization,ORG
-CSO,ORG
+July 2017,DATE
+Manila,GPE
 Philippines,GPE
-Ilocano,ORG
-Benguet,ORG
-Benguet,ORG
-October 2020,DATE
+Multi-Agency Collaboration,ORG
+Evaluate HIV Prevention Drug Among Men,ORG
+Manila,GPE
 Philippines,GPE
-healthcare,ORG
+PrEP Pilipinas,PERSON
 1/3,CARDINAL
-3/18/22,PRODUCT
-12:52 AM,TIME
-early 2021,DATE
-Families Choice,ORG
+3/27/22,PRODUCT
+9:27 PM,TIME
+amfAR,PERSON
 Philippines,GPE
-Home Health Trackers,WORK_OF_ART
-daily,DATE
-Trackers,ORG
-FC,PERSON
-IEC,ORG
-Trackers,ORG
-FC,ORG
+MSM,ORG
+Manila,GPE
 Philippines,GPE
-Gumatdang,ORG
-Itogon,GPE
-Benguet,ORG
-"2,163",CARDINAL
-2015,DATE
+first,ORDINAL
+Asia,LOC
+Project PrEPPY,PERSON
+the World Health Organization,ORG
+the Research Institute for Tropical Medicine,ORG
+LoveYourself,ORG
+LGBT,GPE
+Manila,GPE
+amfAR,PERSON
+The Foundation for AIDS Research,ORG
+Philippines,GPE
+amfAR,PERSON
+Kevin Robert Frost,PERSON
+MSM,PERSON
+Philippines,GPE
+26,CARDINAL
+"9,264",CARDINAL
+2016,DATE
+The HIV epidemic in the Philippines,WORK_OF_ART
+one,CARDINAL
+Gundo Weiler,PERSON
+Eighty-five percent,PERCENT
+MSM,PERSON
+MSM,PERSON
+Philippines,GPE
+18,CARDINAL
+four,CARDINAL
+five,CARDINAL
+Philippines,GPE
+MSM,ORG
+Chris Lagman,PERSON
+Project PrePPY,ORG
+first,ORDINAL
+MSM,PERSON
+Rossana Ditangco,PERSON
+M.D.,GPE
+the AIDS Study Group,ORG
+RITM,GPE
+Philippines Department of Health,ORG
 2/3,CARDINAL
-3/18/22,PRODUCT
-12:52 AM,TIME
-the Home as Active Advocate and Network to COVID Prevention and Control (HAAN COVID,ORG
-Gumatdang village,GPE
-Itogon municipality,GPE
-Benguet province,GPE
+3/27/22,PRODUCT
+9:27 PM,TIME
+amfAR,PERSON
 Philippines,GPE
-24 June 2021,DATE
-Aida Gonzales,PERSON
-Families Choice for Health and Development,ORG
-Response,ORG
+daily,DATE
+up to 90 percent,PERCENT
+first,ORDINAL
+the U.S. Food and Drug Administration,ORG
+2012,DATE
+200,CARDINAL
+MSM,ORG
+two,CARDINAL
+Manila,GPE
+two-year,DATE
+Philippines,GPE
+PrEP,WORK_OF_ART
+MSM,ORG
+Ying-Ru Lo,PERSON
+M.D.,GPE
+Hepatitis,NORP
+Sexually Transmitted Infections,ORG
+Division of Communicable Diseases,ORG
+WHO Regional Office,ORG
+Philippines,GPE
+first,ORDINAL
+Asia,LOC
+MSM,ORG
+MSM,PERSON
+Philippines,GPE
+amfAR  amfAR,PERSON
+The Foundation for AIDS Research,ORG
+one,CARDINAL
+1985,DATE
+amfAR,PERSON
+more than $480 million,MONEY
+"more than 3,300",CARDINAL
+UN,ORG
+Project PrEPPY,PERSON
+the WHO Regional Office,ORG
+the WHO Country Office,ORG
+Philippines,GPE
+3/3,CARDINAL

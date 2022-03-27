@@ -1,0 +1,71 @@
+Word,Label
+12:52 AM,TIME
+EU,ORG
+Asia,LOC
+EU,ORG
+Asia,LOC
+December 2020,DATE
+This week,DATE
+the World Health Organization,ORG
+the European Union,ORG
+EU,ORG
+eight,CARDINAL
+South East,LOC
+Asian,NORP
+EU,ORG
+€20 million,MONEY
+a South East Asia,LOC
+Cambodia,GPE
+Indonesia,GPE
+Lao People’s Democratic Republic,ORG
+Malaysia,GPE
+Myanmar,GPE
+Philippines,GPE
+Thailand,GPE
+Viet Nam,GPE
+more than a decade,DATE
+COVID19,ORG
+EU,ORG
+South East Asia,LOC
+Takeshi Kasai,PERSON
+the Western Pacific,ORG
+the Global Strategic Preparedness,LAW
+Response Plan,ORG
+Asia Pacific,LOC
+eight,CARDINAL
+South East,LOC
+Asian,NORP
+https://www.who.int/westernpacific/news/item/18-12-2020-who-and-eu-join-together-to-support-covid-19-response-and-systems-strengthening-in-asia,NORP
+1/2,CARDINAL
+3/18/22,PRODUCT
+12:52 AM,TIME
+EU,ORG
+Asia,LOC
+Control,NORP
+Suppress,ORG
+Reduce,PRODUCT
+COVID-19,ORG
+EU,ORG
+East Asia,LOC
+Indonesia,GPE
+Myanmar,GPE
+Thailand,GPE
+the Western Pacific,LOC
+Cambodia,GPE
+Lao People’s Democratic Republic,ORG
+Malaysia,GPE
+Philippines,GPE
+Viet Nam,GPE
+EU,ORG
+the Association of Southeast Asian Nations,ORG
+ASEAN,ORG
+eight,CARDINAL
+ASEAN,ORG
+The European Union,ORG
+one,CARDINAL
+WHO,ORG
+the years ahead,DATE
+Singh,GPE
+the European Union,ORG
+South East Asia,LOC
+2/2,CARDINAL

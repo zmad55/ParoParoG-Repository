@@ -1,61 +1,63 @@
 Word,Label
 12:52 AM,TIME
-the Western Pacific  Western Pacific  Region’s,LOC
-the Western Pacific,LOC
-October 2020,DATE
+Lancet COVID-19 Commission,ORG
+the Western Pacific Region,LOC
+Lancet COVID-19 Commission,ORG
+the Western Pacific Region,LOC
+December 2020,DATE
+Jeffrey D. Sachs,PERSON
+Takeshi Kasai,PERSON
 Asia,LOC
 Pacific,LOC
-this week,DATE
+2019,DATE
+today,DATE
+the Lancet COVID-19 Commission,ORG
 the World Health Organization,ORG
-the Western Pacific,LOC
-the WHO Regional Committee,ORG
-the Western Pacific,LOC
-6,CARDINAL
-October 2020,DATE
-the opening day,DATE
-Takeshi Kasai,PERSON
-the Western Pacific,ORG
-Last year,DATE
-Manila,GPE
-COVID-19,PERSON
-100 years,DATE
+Australia,GPE
+Cambodia,GPE
+China,GPE
+Cook Islands,GPE
+Fiji,GPE
+Japan,GPE
+Mongolia,GPE
+New Zealand,GPE
+the Republic of Korea,GPE
+Singapore,GPE
+Viet Nam,GPE
+Almost a year,DATE
+37,CARDINAL
+more than a quarter,DATE
+less than 1.4%,PERCENT
+Region,ORG
 1/3,CARDINAL
 3/18/22,PRODUCT
 12:52 AM,TIME
-the Western Pacific,LOC
-the past 9 months,DATE
-Region,ORG
-the Western Pacific,LOC
+Lancet COVID-19 Commission,ORG
 the Western Pacific Region,LOC
-Later this week,DATE
-Limited,ORG
-five,CARDINAL
-last year,DATE
-Regional Committee,ORG
-Francisco T. Duque III,PERSON
-Health of the Philippines,ORG
-year,DATE
-Ifereimi Waqainabete,PERSON
-Health and Medical Services of Fiji,ORG
-Chair,ORG
-the Regional Committee,ORG
-this week,DATE
+solidarity,ORG
+the Western Pacific Region,LOC
+this year,DATE
+Dr Kasai,PERSON
+the Western Pacific,ORG
+The Western Pacific Region,WORK_OF_ART
+Prof Sachs,ORG
+the Center for Sustainable Development,ORG
+Columbia University,ORG
+the Lancet COVID-19 Commission,ORG
+State,ORG
+"https://youtu.be/Qt_hQBu0M5I.
+Remarks",ORG
+Takeshi Kasai,PERSON
+https://www.who.int/westernpacific/news/speeches/detail/from-,DATE
+the Western Pacific,LOC
+1.9 billion,CARDINAL
+37,CARDINAL
 2/3,CARDINAL
 3/18/22,PRODUCT
 12:52 AM,TIME
-the Western Pacific,LOC
-@WHOWPRO,ORG
-Facebook,ORG
-Twitter,PERSON
-YouTube,ORG
-194,CARDINAL
-six,CARDINAL
-WHO,ORG
-the United Nations,ORG
-annually,DATE
-This year,DATE
-first,ORDINAL
-37,CARDINAL
+Lancet COVID-19 Commission,ORG
+the Western Pacific Region,LOC
+Lancet COVID-19 Commission,ORG
 Australia,GPE
 Brunei Darussalam,GPE
 Cambodia,GPE
@@ -99,12 +101,4 @@ American Samoa,ORG
 Guam,GPE
 Vanuatu,ORG
 Viet Nam,GPE
-the Western Pacific Region,LOC
-the WHO Regional Committee,ORG
-the Western Pacific,ORG
-1 July 2019–30,DATE
-June 2020,DATE
-WHO,ORG
-the Western Pacific,LOC
-https://www.who.int/westernpacific/news/item/06-10-2020-region-s-leaders-gather-virtually-to-tackle-covid-19-and-other-health-issues-chart-who-s-wor,GPE
 3/3,CARDINAL

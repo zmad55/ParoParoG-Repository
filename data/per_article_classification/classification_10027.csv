@@ -1,0 +1,757 @@
+Sentence_Index,Token,Pos,Explained_Tag,Tag,iob_Tag,Entity_Type
+0,3/18/22,NUM,cardinal number,CD,B,CARDINAL
+0,",",PUNCT,"punctuation mark, comma",",",O,
+0,12:53,NUM,cardinal number,CD,B,TIME
+0,AM,NOUN,"noun, singular or mass",NN,I,TIME
+0, ,SPACE,whitespace,_SP,O,
+0,PH,PROPN,"noun, proper singular",NNP,O,
+0,receives,VERB,"verb, 3rd person singular present",VBZ,O,
+0,first,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,B,ORDINAL
+0,tranche,NOUN,"noun, singular or mass",NN,O,
+0,of,ADP,"conjunction, subordinating or preposition",IN,O,
+0,additional,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+0,10,NUM,cardinal number,CD,O,
+0,M,PROPN,"noun, proper singular",NNP,O,
+0,Pfizer,PROPN,"noun, proper singular",NNP,O,
+0,doses,VERB,"verb, 3rd person singular present",VBZ,O,
+0,from,ADP,"conjunction, subordinating or preposition",IN,O,
+0,COVAX,PROPN,"noun, proper singular",NNP,B,ORG
+0,Facility,PROPN,"noun, proper singular",NNP,I,ORG
+0, ,SPACE,whitespace,_SP,I,ORG
+0,Western,PROPN,"noun, proper singular",NNP,I,ORG
+0,Pacific,PROPN,"noun, proper singular",NNP,I,ORG
+0,Philippines,PROPN,"noun, proper singular",NNP,I,ORG
+0, ,SPACE,whitespace,_SP,O,
+0,PH,PROPN,"noun, proper singular",NNP,O,
+0,receives,VERB,"verb, 3rd person singular present",VBZ,O,
+0,first,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,B,ORDINAL
+0,tranche,NOUN,"noun, singular or mass",NN,O,
+0,of,ADP,"conjunction, subordinating or preposition",IN,O,
+0,additional,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+0,10,NUM,cardinal number,CD,O,
+0,M,PROPN,"noun, proper singular",NNP,O,
+0,Pfizer,PROPN,"noun, proper singular",NNP,O,
+0,doses,VERB,"verb, 3rd person singular present",VBZ,O,
+0,from,ADP,"conjunction, subordinating or preposition",IN,O,
+0,COVAX,PROPN,"noun, proper singular",NNP,B,ORG
+0,Facility,PROPN,"noun, proper singular",NNP,I,ORG
+0, ,SPACE,whitespace,_SP,I,ORG
+0,20,NUM,cardinal number,CD,O,
+0,September,PROPN,"noun, proper singular",NNP,O,
+0,2021,NUM,cardinal number,CD,O,
+0,  ,SPACE,whitespace,_SP,O,
+0,|,NOUN,"noun, singular or mass",NN,O,
+0, ,SPACE,whitespace,_SP,O,
+0,Joint,PROPN,"noun, proper singular",NNP,O,
+0,News,PROPN,"noun, proper singular",NNP,O,
+0,Release,PROPN,"noun, proper singular",NNP,O,
+0, ,SPACE,whitespace,_SP,O,
+0,|,NOUN,"noun, singular or mass",NN,O,
+0,   ,SPACE,whitespace,_SP,O,
+0,Manila,PROPN,"noun, proper singular",NNP,B,GPE
+0, ,SPACE,whitespace,_SP,O,
+0,As,SCONJ,"conjunction, subordinating or preposition",IN,O,
+0,the,DET,determiner,DT,O,
+0,Philippines,PROPN,"noun, proper singular",NNP,B,GPE
+0,on,ADP,"conjunction, subordinating or preposition",IN,O,
+0,Sunday,PROPN,"noun, proper singular",NNP,B,DATE
+0,received,VERB,"verb, past tense",VBD,O,
+0,additional,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+0,COVID-19,NOUN,"noun, singular or mass",NN,O,
+0,vaccines,NOUN,"noun, plural",NNS,O,
+0, ,SPACE,whitespace,_SP,O,
+0,donated,VERB,"verb, past participle",VBN,O,
+0,by,ADP,"conjunction, subordinating or preposition",IN,O,
+0,the,DET,determiner,DT,B,ORG
+0,COVAX,PROPN,"noun, proper singular",NNP,I,ORG
+0,Facility,PROPN,"noun, proper singular",NNP,I,ORG
+0,",",PUNCT,"punctuation mark, comma",",",O,
+0,the,DET,determiner,DT,B,ORG
+0,Department,PROPN,"noun, proper singular",NNP,I,ORG
+0,of,ADP,"conjunction, subordinating or preposition",IN,I,ORG
+0,Health,PROPN,"noun, proper singular",NNP,I,ORG
+0,(,PUNCT,left round bracket,-LRB-,O,
+0,DOH,PROPN,"noun, proper singular",NNP,B,ORG
+0,),PUNCT,right round bracket,-RRB-,O,
+0,",",PUNCT,"punctuation mark, comma",",",O,
+0,World,PROPN,"noun, proper singular",NNP,B,ORG
+0,Health,PROPN,"noun, proper singular",NNP,I,ORG
+0,Organization,PROPN,"noun, proper singular",NNP,I,ORG
+0,(,PUNCT,left round bracket,-LRB-,O,
+0,WHO,PRON,"wh-pronoun, personal",WP,O,
+0,),PUNCT,right round bracket,-RRB-,O,
+0,",",PUNCT,"punctuation mark, comma",",",O,
+0,and,CCONJ,"conjunction, coordinating",CC,O,
+0,UNICEF,PROPN,"noun, proper singular",NNP,B,ORG
+0,continued,VERB,"verb, past tense",VBD,O,
+0,to,PART,"infinitival ""to""",TO,O,
+0,urge,VERB,"verb, base form",VB,O,
+0,local,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+0,government,NOUN,"noun, singular or mass",NN,O,
+0,units,NOUN,"noun, plural",NNS,O,
+0,to,PART,"infinitival ""to""",TO,O,
+0,prioritize,VERB,"verb, base form",VB,O,
+0,vaccination,NOUN,"noun, singular or mass",NN,O,
+0,of,ADP,"conjunction, subordinating or preposition",IN,O,
+0,senior,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+0,citizens,NOUN,"noun, plural",NNS,O,
+0,.,PUNCT,"punctuation mark, sentence closer",.,O,
+1,"
+",SPACE,whitespace,_SP,O,
+2,The,DET,determiner,DT,O,
+2,2,NUM,cardinal number,CD,B,CARDINAL
+2,million,NUM,cardinal number,CD,I,CARDINAL
+2,Pfizer,PROPN,"noun, proper singular",NNP,B,ORG
+2,vaccines,NOUN,"noun, plural",NNS,O,
+2,are,AUX,"verb, non-3rd person singular present",VBP,O,
+2,part,NOUN,"noun, singular or mass",NN,O,
+2,of,ADP,"conjunction, subordinating or preposition",IN,O,
+2,the,DET,determiner,DT,O,
+2,10,NUM,cardinal number,CD,B,CARDINAL
+2,million,NUM,cardinal number,CD,I,CARDINAL
+2,doses,NOUN,"noun, plural",NNS,O,
+2,which,PRON,wh-determiner,WDT,O,
+2,were,AUX,"verb, past tense",VBD,O,
+2,co,VERB,"verb, past participle",VBN,O,
+2,-,VERB,"verb, past participle",VBN,O,
+2,procured,VERB,"verb, past participle",VBN,O,
+2,by,ADP,"conjunction, subordinating or preposition",IN,O,
+2,the,DET,determiner,DT,B,ORG
+2,US,PROPN,"noun, proper singular",NNP,I,ORG
+2,Government,PROPN,"noun, proper singular",NNP,I,ORG
+2,with,ADP,"conjunction, subordinating or preposition",IN,O,
+2,the,DET,determiner,DT,B,ORG
+2,COVAX,PROPN,"noun, proper singular",NNP,I,ORG
+2,Facility,PROPN,"noun, proper singular",NNP,I,ORG
+2,.,PUNCT,"punctuation mark, sentence closer",.,O,
+3,"
+",SPACE,whitespace,_SP,O,
+3,The,DET,determiner,DT,O,
+3,latest,ADJ,"adjective, superlative",JJS,O,
+3,arrival,NOUN,"noun, singular or mass",NN,O,
+3, ,SPACE,whitespace,_SP,O,
+3,brings,VERB,"verb, 3rd person singular present",VBZ,O,
+3,the,DET,determiner,DT,O,
+3,country,NOUN,"noun, singular or mass",NN,O,
+3,’s,PART,possessive ending,POS,O,
+3,total,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+3,doses,NOUN,"noun, plural",NNS,O,
+3,to,ADP,"conjunction, subordinating or preposition",IN,O,
+3,64.3,NUM,cardinal number,CD,B,CARDINAL
+3,million,NUM,cardinal number,CD,I,CARDINAL
+3,",",PUNCT,"punctuation mark, comma",",",O,
+3,with,ADP,"conjunction, subordinating or preposition",IN,O,
+3,15.5,NUM,cardinal number,CD,B,CARDINAL
+3,million,NUM,cardinal number,CD,I,CARDINAL
+3,from,ADP,"conjunction, subordinating or preposition",IN,O,
+3,the,DET,determiner,DT,B,ORG
+3,COVAX,PROPN,"noun, proper singular",NNP,I,ORG
+3,Facility,PROPN,"noun, proper singular",NNP,I,ORG
+3,.,PUNCT,"punctuation mark, sentence closer",.,O,
+4,"
+",SPACE,whitespace,_SP,O,
+5,“,PUNCT,opening quotation mark,``,O,
+5,While,SCONJ,"conjunction, subordinating or preposition",IN,O,
+5,the,DET,determiner,DT,O,
+5,national,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+5,government,NOUN,"noun, singular or mass",NN,O,
+5,recalibrates,VERB,"verb, 3rd person singular present",VBZ,O,
+5,its,PRON,"pronoun, possessive",PRP$,O,
+5,strategies,NOUN,"noun, plural",NNS,O,
+5,in,ADP,"conjunction, subordinating or preposition",IN,O,
+5,addressing,VERB,"verb, gerund or present participle",VBG,O,
+5,the,DET,determiner,DT,O,
+5,rising,VERB,"verb, gerund or present participle",VBG,O,
+5,COVID-19,NOUN,"noun, singular or mass",NN,O,
+5,cases,NOUN,"noun, plural",NNS,O,
+5,to,ADP,"conjunction, subordinating or preposition",IN,O,
+5,a,DET,determiner,DT,O,
+5,more,ADV,"adverb, comparative",RBR,O,
+5,targeted,VERB,"verb, past participle",VBN,O,
+5,scheme,NOUN,"noun, singular or mass",NN,O,
+5,",",PUNCT,"punctuation mark, comma",",",O,
+5,the,DET,determiner,DT,O,
+5,local,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+5,government,NOUN,"noun, singular or mass",NN,O,
+5,units,NOUN,"noun, plural",NNS,O,
+5,must,AUX,"verb, modal auxiliary",MD,O,
+5,also,ADV,adverb,RB,O,
+5,ramp,VERB,"verb, base form",VB,O,
+5,up,ADP,"adverb, particle",RP,O,
+5,their,PRON,"pronoun, possessive",PRP$,O,
+5,COVID-19,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,B,ORG
+5,vaccination,NOUN,"noun, singular or mass",NN,O,
+5,",",PUNCT,"punctuation mark, comma",",",O,
+5,especially,ADV,adverb,RB,O,
+5,to,ADP,"conjunction, subordinating or preposition",IN,O,
+5,the,DET,determiner,DT,O,
+5,elderly,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+5,population,NOUN,"noun, singular or mass",NN,O,
+5,who,PRON,"wh-pronoun, personal",WP,O,
+5,are,AUX,"verb, non-3rd person singular present",VBP,O,
+5,most,ADV,"adverb, superlative",RBS,O,
+5,at,ADP,"conjunction, subordinating or preposition",IN,O,
+5,-,PUNCT,"punctuation mark, hyphen",HYPH,O,
+5,risk,NOUN,"noun, singular or mass",NN,O,
+5,for,ADP,"conjunction, subordinating or preposition",IN,O,
+5,severe,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+5,COVID-19,NOUN,"noun, singular or mass",NN,O,
+5,and,CCONJ,"conjunction, coordinating",CC,O,
+5,even,ADV,adverb,RB,O,
+5,dying,VERB,"verb, gerund or present participle",VBG,O,
+5,from,ADP,"conjunction, subordinating or preposition",IN,O,
+5,it,PRON,"pronoun, personal",PRP,O,
+5,.,PUNCT,"punctuation mark, sentence closer",.,O,
+6,"
+",SPACE,whitespace,_SP,O,
+6,We,PRON,"pronoun, personal",PRP,O,
+6,also,ADV,adverb,RB,O,
+6,thank,VERB,"verb, non-3rd person singular present",VBP,O,
+6,the,DET,determiner,DT,B,ORG
+6,COVAX,PROPN,"noun, proper singular",NNP,I,ORG
+6,Facility,PROPN,"noun, proper singular",NNP,I,ORG
+6,for,ADP,"conjunction, subordinating or preposition",IN,O,
+6,the,DET,determiner,DT,O,
+6,additional,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+6,supply,NOUN,"noun, singular or mass",NN,O,
+6,of,ADP,"conjunction, subordinating or preposition",IN,O,
+6,much,ADV,adverb,RB,O,
+6,-,PUNCT,"punctuation mark, hyphen",HYPH,O,
+6,needed,VERB,"verb, past participle",VBN,O,
+6,COVID-19,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+6,vaccines,NOUN,"noun, plural",NNS,O,
+6,",",PUNCT,"punctuation mark, comma",",",O,
+6,”,PUNCT,closing quotation mark,'',O,
+6,said,VERB,"verb, past tense",VBD,O,
+6,Health,PROPN,"noun, proper singular",NNP,B,ORG
+6,Secretary,PROPN,"noun, proper singular",NNP,O,
+6,Francisco,PROPN,"noun, proper singular",NNP,B,PERSON
+6,T.,PROPN,"noun, proper singular",NNP,I,PERSON
+6,Duque,PROPN,"noun, proper singular",NNP,I,PERSON
+6,III,PROPN,"noun, proper singular",NNP,I,PERSON
+6,.,PUNCT,"punctuation mark, sentence closer",.,O,
+7,"
+",SPACE,whitespace,_SP,O,
+7,The,DET,determiner,DT,O,
+7,Philippines,PROPN,"noun, proper singular",NNP,B,GPE
+7,has,AUX,"verb, 3rd person singular present",VBZ,O,
+7,administered,VERB,"verb, past participle",VBN,O,
+7,"41,247,552",NUM,cardinal number,CD,B,CARDINAL
+7,doses,NOUN,"noun, plural",NNS,O,
+7,of,ADP,"conjunction, subordinating or preposition",IN,O,
+7,COVID-19,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+7,vaccines,NOUN,"noun, plural",NNS,O,
+7,as,ADP,"conjunction, subordinating or preposition",IN,O,
+7,of,ADP,"conjunction, subordinating or preposition",IN,O,
+7,September,PROPN,"noun, proper singular",NNP,B,DATE
+7,18,NUM,cardinal number,CD,I,DATE
+7,with,ADP,"conjunction, subordinating or preposition",IN,O,
+7,at,ADV,adverb,RB,B,CARDINAL
+7,least,ADV,"adverb, superlative",RBS,I,CARDINAL
+7,"4,261,633",NUM,cardinal number,CD,I,CARDINAL
+7,fully,ADV,adverb,RB,O,
+7,-,PUNCT,"punctuation mark, hyphen",HYPH,O,
+7,vaccinated,VERB,"verb, past participle",VBN,O,
+7,senior,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+7,citizens,NOUN,"noun, plural",NNS,O,
+7,over,ADP,"conjunction, subordinating or preposition",IN,B,CARDINAL
+7,8,NUM,cardinal number,CD,I,CARDINAL
+7,million,NUM,cardinal number,CD,I,CARDINAL
+7,masterlisted,VERB,"verb, past participle",VBN,O,
+7,.,PUNCT,"punctuation mark, sentence closer",.,O,
+8,"
+",SPACE,whitespace,_SP,O,
+8,“,PUNCT,opening quotation mark,``,O,
+8,With,ADP,"conjunction, subordinating or preposition",IN,O,
+8,the,DET,determiner,DT,O,
+8,country,NOUN,"noun, singular or mass",NN,O,
+8,receiving,VERB,"verb, gerund or present participle",VBG,O,
+8,the,DET,determiner,DT,O,
+8,additional,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+8,doses,NOUN,"noun, plural",NNS,O,
+8,from,ADP,"conjunction, subordinating or preposition",IN,O,
+8,the,DET,determiner,DT,B,ORG
+8,COVAX,PROPN,"noun, proper singular",NNP,I,ORG
+8,Facility,PROPN,"noun, proper singular",NNP,I,ORG
+8,",",PUNCT,"punctuation mark, comma",",",O,
+8,the,DET,determiner,DT,O,
+8,Philippines,PROPN,"noun, proper singular",NNP,B,GPE
+8,has,VERB,"verb, 3rd person singular present",VBZ,O,
+8,adequate,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+8,vaccines,NOUN,"noun, plural",NNS,O,
+8,to,PART,"infinitival ""to""",TO,O,
+8,fully,ADV,adverb,RB,O,
+8,protect,VERB,"verb, base form",VB,O,
+8,the,DET,determiner,DT,O,
+8,elderly,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+8,citizens,NOUN,"noun, plural",NNS,O,
+8,or,CCONJ,"conjunction, coordinating",CC,O,
+8,A2,PROPN,"noun, proper singular",NNP,B,ORG
+8,priority,NOUN,"noun, singular or mass",NN,I,ORG
+8,group,NOUN,"noun, singular or mass",NN,I,ORG
+8,.,PUNCT,"punctuation mark, sentence closer",.,O,
+9,"
+",SPACE,whitespace,_SP,O,
+9,We,PRON,"pronoun, personal",PRP,O,
+9,call,VERB,"verb, non-3rd person singular present",VBP,O,
+9,for,ADP,"conjunction, subordinating or preposition",IN,O,
+9,our,PRON,"pronoun, possessive",PRP$,O,
+9,local,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+9,chief,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+9,executives,NOUN,"noun, plural",NNS,O,
+9,and,CCONJ,"conjunction, coordinating",CC,O,
+9,regional,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+9,health,NOUN,"noun, singular or mass",NN,O,
+9,authorities,NOUN,"noun, plural",NNS,O,
+9,to,PART,"infinitival ""to""",TO,O,
+9,urgently,ADV,adverb,RB,O,
+9,complete,VERB,"verb, base form",VB,O,
+9,the,DET,determiner,DT,O,
+9,full,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+9,vaccination,NOUN,"noun, singular or mass",NN,O,
+9,of,ADP,"conjunction, subordinating or preposition",IN,O,
+9,all,DET,predeterminer,PDT,O,
+9,the,DET,determiner,DT,O,
+9,elderly,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+9,and,CCONJ,"conjunction, coordinating",CC,O,
+9,reduce,VERB,"verb, base form",VB,O,
+9,further,ADV,adverb,RB,O,
+9,the,DET,determiner,DT,O,
+9,loss,NOUN,"noun, singular or mass",NN,O,
+9,of,ADP,"conjunction, subordinating or preposition",IN,O,
+9,lives,NOUN,"noun, plural",NNS,O,
+9,to,ADP,"conjunction, subordinating or preposition",IN,O,
+9,the,DET,determiner,DT,O,
+9,pandemic,NOUN,"noun, singular or mass",NN,O,
+9,.,PUNCT,"punctuation mark, sentence closer",.,O,
+10,"
+",SPACE,whitespace,_SP,O,
+10,This,PRON,determiner,DT,O,
+10,is,AUX,"verb, 3rd person singular present",VBZ,O,
+10,the,DET,determiner,DT,O,
+10,most,ADV,"adverb, superlative",RBS,O,
+10,ethical,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+10,and,CCONJ,"conjunction, coordinating",CC,O,
+10,rational,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+10,use,NOUN,"noun, singular or mass",NN,O,
+10,of,ADP,"conjunction, subordinating or preposition",IN,O,
+10,vaccines,NOUN,"noun, plural",NNS,O,
+10,",",PUNCT,"punctuation mark, comma",",",O,
+10,especially,ADV,adverb,RB,O,
+10,now,ADV,adverb,RB,O,
+10,that,SCONJ,"conjunction, subordinating or preposition",IN,O,
+10,COVID-19,PROPN,"noun, proper singular",NNP,O,
+10,cases,NOUN,"noun, plural",NNS,O,
+10,have,AUX,"verb, non-3rd person singular present",VBP,O,
+10,been,AUX,"verb, past participle",VBN,O,
+10,rising,VERB,"verb, gerund or present participle",VBG,O,
+10,in,ADP,"conjunction, subordinating or preposition",IN,O,
+10,many,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+10,regions,NOUN,"noun, plural",NNS,O,
+10,with,ADP,"conjunction, subordinating or preposition",IN,O,
+10,low,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+10,coverage,NOUN,"noun, singular or mass",NN,O,
+10, ,SPACE,whitespace,_SP,O,
+10,https://www.who.int/philippines/news/detail/20-09-2021-ph-receives-first-tranche-of-additional-10m-pfizer-doses-from-covax-facility,PROPN,"noun, proper singular",NNP,O,
+10, ,SPACE,whitespace,_SP,O,
+10,1/3,NUM,cardinal number,CD,B,CARDINAL
+10, ,SPACE,whitespace,_SP,O,
+10,3/18/22,NUM,cardinal number,CD,B,CARDINAL
+10,",",PUNCT,"punctuation mark, comma",",",O,
+10,12:53,NUM,cardinal number,CD,B,TIME
+10,AM,NOUN,"noun, singular or mass",NN,I,TIME
+10, ,SPACE,whitespace,_SP,O,
+10,PH,PROPN,"noun, proper singular",NNP,O,
+10,receives,VERB,"verb, 3rd person singular present",VBZ,O,
+10,first,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,B,ORDINAL
+10,tranche,NOUN,"noun, singular or mass",NN,O,
+10,of,ADP,"conjunction, subordinating or preposition",IN,O,
+10,additional,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+10,10,NUM,cardinal number,CD,O,
+10,M,PROPN,"noun, proper singular",NNP,O,
+10,Pfizer,PROPN,"noun, proper singular",NNP,O,
+10,doses,VERB,"verb, 3rd person singular present",VBZ,O,
+10,from,ADP,"conjunction, subordinating or preposition",IN,O,
+10,COVAX,PROPN,"noun, proper singular",NNP,O,
+10,Facility,PROPN,"noun, proper singular",NNP,O,
+10, ,SPACE,whitespace,_SP,O,
+10,of,ADP,"conjunction, subordinating or preposition",IN,O,
+10,senior,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+10,citizens,NOUN,"noun, plural",NNS,O,
+10,.,PUNCT,"punctuation mark, sentence closer",.,O,
+11,"
+",SPACE,whitespace,_SP,O,
+11,Any,DET,determiner,DT,O,
+11,further,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+11,delay,NOUN,"noun, singular or mass",NN,O,
+11,in,ADP,"conjunction, subordinating or preposition",IN,O,
+11,the,DET,determiner,DT,O,
+11,vaccination,NOUN,"noun, singular or mass",NN,O,
+11,of,ADP,"conjunction, subordinating or preposition",IN,O,
+11,our,PRON,"pronoun, possessive",PRP$,O,
+11,elderly,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+11,will,AUX,"verb, modal auxiliary",MD,O,
+11,cost,VERB,"verb, base form",VB,O,
+11,us,PRON,"pronoun, personal",PRP,O,
+11,more,ADJ,"adjective, comparative",JJR,O,
+11,lives,NOUN,"noun, plural",NNS,O,
+11,",",PUNCT,"punctuation mark, comma",",",O,
+11,and,CCONJ,"conjunction, coordinating",CC,O,
+11,lead,VERB,"verb, base form",VB,O,
+11,to,ADP,"conjunction, subordinating or preposition",IN,O,
+11,an,DET,determiner,DT,O,
+11,overwhelming,NOUN,"noun, singular or mass",NN,O,
+11,of,ADP,"conjunction, subordinating or preposition",IN,O,
+11,the,DET,determiner,DT,O,
+11,health,NOUN,"noun, singular or mass",NN,O,
+11,system,NOUN,"noun, singular or mass",NN,O,
+11,in,ADP,"conjunction, subordinating or preposition",IN,O,
+11,affected,VERB,"verb, past participle",VBN,O,
+11,regions,NOUN,"noun, plural",NNS,O,
+11,and,CCONJ,"conjunction, coordinating",CC,O,
+11,further,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+11,harm,NOUN,"noun, singular or mass",NN,O,
+11,to,ADP,"conjunction, subordinating or preposition",IN,O,
+11,the,DET,determiner,DT,O,
+11,economy,NOUN,"noun, singular or mass",NN,O,
+11,",",PUNCT,"punctuation mark, comma",",",O,
+11,”,PUNCT,closing quotation mark,'',O,
+11,said,VERB,"verb, past tense",VBD,O,
+11,World,PROPN,"noun, proper singular",NNP,B,ORG
+11,Health,PROPN,"noun, proper singular",NNP,I,ORG
+11,Organization,PROPN,"noun, proper singular",NNP,I,ORG
+11,Representative,PROPN,"noun, proper singular",NNP,I,ORG
+11,to,ADP,"conjunction, subordinating or preposition",IN,O,
+11,the,DET,determiner,DT,O,
+11,Philippines,PROPN,"noun, proper singular",NNP,B,GPE
+11,Dr.,PROPN,"noun, proper singular",NNP,O,
+11,Rabindra,PROPN,"noun, proper singular",NNP,B,PERSON
+11,Abeyasinghe,PROPN,"noun, proper singular",NNP,I,PERSON
+11,.,PUNCT,"punctuation mark, sentence closer",.,O,
+12,"
+",SPACE,whitespace,_SP,O,
+13,The,DET,determiner,DT,O,
+13,COVAX,PROPN,"noun, proper singular",NNP,O,
+13,Facility,PROPN,"noun, proper singular",NNP,O,
+13,—,PUNCT,"punctuation mark, colon or ellipsis",:,O,
+13,co,VERB,"verb, past participle",VBN,O,
+13,-,VERB,"verb, past participle",VBN,O,
+13,led,VERB,"verb, past participle",VBN,O,
+13,by,ADP,"conjunction, subordinating or preposition",IN,O,
+13,Gavi,PROPN,"noun, proper singular",NNP,B,PERSON
+13,",",PUNCT,"punctuation mark, comma",",",O,
+13,the,DET,determiner,DT,B,ORG
+13,Coalition,PROPN,"noun, proper singular",NNP,I,ORG
+13,for,ADP,"conjunction, subordinating or preposition",IN,I,ORG
+13,Epidemic,PROPN,"noun, proper singular",NNP,I,ORG
+13,Preparedness,PROPN,"noun, proper singular",NNP,I,ORG
+13,Innovations,PROPN,"noun, proper plural",NNPS,I,ORG
+13,(,PUNCT,left round bracket,-LRB-,O,
+13,CEPI,PROPN,"noun, proper singular",NNP,O,
+13,),PUNCT,right round bracket,-RRB-,O,
+13,and,CCONJ,"conjunction, coordinating",CC,O,
+13,the,DET,determiner,DT,B,ORG
+13,World,PROPN,"noun, proper singular",NNP,I,ORG
+13,Health,PROPN,"noun, proper singular",NNP,I,ORG
+13,Organization,PROPN,"noun, proper singular",NNP,I,ORG
+13,(,PUNCT,left round bracket,-LRB-,O,
+13,WHO,PRON,"wh-pronoun, personal",WP,O,
+13,),PUNCT,right round bracket,-RRB-,O,
+13,",",PUNCT,"punctuation mark, comma",",",O,
+13, ,SPACE,whitespace,_SP,O,
+13,together,ADV,adverb,RB,O,
+13, ,SPACE,whitespace,_SP,O,
+13,with,ADP,"conjunction, subordinating or preposition",IN,O,
+13,UNICEF,PROPN,"noun, proper singular",NNP,O,
+13,—,PUNCT,"punctuation mark, colon or ellipsis",:,O,
+13,aims,VERB,"verb, 3rd person singular present",VBZ,O,
+13,to,PART,"infinitival ""to""",TO,O,
+13,accelerate,VERB,"verb, base form",VB,O,
+13,the,DET,determiner,DT,O,
+13,development,NOUN,"noun, singular or mass",NN,O,
+13,of,ADP,"conjunction, subordinating or preposition",IN,O,
+13,COVID-19,NOUN,"noun, singular or mass",NN,O,
+13,vaccines,NOUN,"noun, plural",NNS,O,
+13,",",PUNCT,"punctuation mark, comma",",",O,
+13,and,CCONJ,"conjunction, coordinating",CC,O,
+13,guarantee,VERB,"verb, base form",VB,O,
+13,fair,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+13,and,CCONJ,"conjunction, coordinating",CC,O,
+13,equitable,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+13,access,NOUN,"noun, singular or mass",NN,O,
+13,to,ADP,"conjunction, subordinating or preposition",IN,O,
+13,these,DET,determiner,DT,O,
+13,vaccines,NOUN,"noun, plural",NNS,O,
+13,even,ADV,adverb,RB,O,
+13,with,ADP,"conjunction, subordinating or preposition",IN,O,
+13,the,DET,determiner,DT,O,
+13,scarce,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+13,global,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+13,supply,NOUN,"noun, singular or mass",NN,O,
+13,.,PUNCT,"punctuation mark, sentence closer",.,O,
+14,"
+",SPACE,whitespace,_SP,O,
+15,With,ADP,"conjunction, subordinating or preposition",IN,O,
+15,the,DET,determiner,DT,O,
+15,call,NOUN,"noun, singular or mass",NN,O,
+15,to,PART,"infinitival ""to""",TO,O,
+15,maximize,VERB,"verb, base form",VB,O,
+15,the,DET,determiner,DT,O,
+15,benefits,NOUN,"noun, plural",NNS,O,
+15,of,ADP,"conjunction, subordinating or preposition",IN,O,
+15,available,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+15,vaccines,NOUN,"noun, plural",NNS,O,
+15,by,ADP,"conjunction, subordinating or preposition",IN,O,
+15,prioritizing,VERB,"verb, gerund or present participle",VBG,O,
+15,the,DET,determiner,DT,O,
+15,vulnerable,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+15,population,NOUN,"noun, singular or mass",NN,O,
+15,",",PUNCT,"punctuation mark, comma",",",O,
+15,DOH,PROPN,"noun, proper singular",NNP,B,ORG
+15,",",PUNCT,"punctuation mark, comma",",",O,
+15,WHO,PRON,"wh-pronoun, personal",WP,O,
+15,",",PUNCT,"punctuation mark, comma",",",O,
+15,and,CCONJ,"conjunction, coordinating",CC,O,
+15,UNICEF,PROPN,"noun, proper singular",NNP,B,ORG
+15,also,ADV,adverb,RB,O,
+15,urged,VERB,"verb, past tense",VBD,O,
+15,the,DET,determiner,DT,O,
+15,public,NOUN,"noun, singular or mass",NN,O,
+15,",",PUNCT,"punctuation mark, comma",",",O,
+15,even,ADV,adverb,RB,O,
+15,the,DET,determiner,DT,O,
+15,fully,ADV,adverb,RB,O,
+15,-,PUNCT,"punctuation mark, hyphen",HYPH,O,
+15,vaccinated,VERB,"verb, past participle",VBN,O,
+15,individuals,NOUN,"noun, plural",NNS,O,
+15,",",PUNCT,"punctuation mark, comma",",",O,
+15,to,PART,"infinitival ""to""",TO,O,
+15,continue,VERB,"verb, base form",VB,O,
+15,wearing,VERB,"verb, gerund or present participle",VBG,O,
+15,face,NOUN,"noun, singular or mass",NN,O,
+15,masks,NOUN,"noun, plural",NNS,O,
+15,",",PUNCT,"punctuation mark, comma",",",O,
+15,practicing,VERB,"verb, gerund or present participle",VBG,O,
+15,proper,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+15,hand,NOUN,"noun, singular or mass",NN,O,
+15,hygiene,NOUN,"noun, singular or mass",NN,O,
+15,",",PUNCT,"punctuation mark, comma",",",O,
+15,physical,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+15,distancing,NOUN,"noun, singular or mass",NN,O,
+15,",",PUNCT,"punctuation mark, comma",",",O,
+15,and,CCONJ,"conjunction, coordinating",CC,O,
+15,ensuring,VERB,"verb, gerund or present participle",VBG,O,
+15,ventilation,NOUN,"noun, singular or mass",NN,O,
+15,whenever,SCONJ,wh-adverb,WRB,O,
+15,indoors,NOUN,"noun, plural",NNS,O,
+15,.,PUNCT,"punctuation mark, sentence closer",.,O,
+16,"
+",SPACE,whitespace,_SP,O,
+16,DOH,PROPN,"noun, proper singular",NNP,O,
+16,:,PUNCT,"punctuation mark, colon or ellipsis",:,O,
+16,facebook.com/DOHhealthypilipinas,NOUN,"noun, plural",NNS,O,
+16,  ,SPACE,whitespace,_SP,O,
+16,WHO,PRON,"wh-pronoun, personal",WP,O,
+16,:,PUNCT,"punctuation mark, colon or ellipsis",:,O,
+16,facebook.com/whophilippines,NOUN,"noun, plural",NNS,O,
+16, ,SPACE,whitespace,_SP,O,
+16,UNICEF,PROPN,"noun, proper singular",NNP,O,
+16,:,PUNCT,"punctuation mark, colon or ellipsis",:,O,
+16,facebook.com/unicefphilippines,NOUN,"noun, plural",NNS,O,
+16, ,SPACE,whitespace,_SP,O,
+16,About,ADP,"conjunction, subordinating or preposition",IN,O,
+16,COVAX,PROPN,"noun, proper singular",NNP,O,
+16, ,SPACE,whitespace,_SP,O,
+16,COVAX,PROPN,"noun, proper singular",NNP,O,
+16,",",PUNCT,"punctuation mark, comma",",",O,
+16,the,DET,determiner,DT,O,
+16,vaccines,NOUN,"noun, plural",NNS,O,
+16,pillar,NOUN,"noun, singular or mass",NN,O,
+16,of,ADP,"conjunction, subordinating or preposition",IN,O,
+16,the,DET,determiner,DT,O,
+16,Access,PROPN,"noun, proper singular",NNP,B,PRODUCT
+16,to,ADP,"conjunction, subordinating or preposition",IN,O,
+16,COVID-19,NOUN,"noun, singular or mass",NN,B,PERSON
+16,Tools,PROPN,"noun, proper plural",NNPS,I,PERSON
+16,(,PUNCT,left round bracket,-LRB-,O,
+16,ACT,PROPN,"noun, proper singular",NNP,O,
+16,),PUNCT,right round bracket,-RRB-,O,
+16,Accelerator,PROPN,"noun, proper singular",NNP,O,
+16,",",PUNCT,"punctuation mark, comma",",",O,
+16,is,AUX,"verb, 3rd person singular present",VBZ,O,
+16,co,VERB,"verb, past participle",VBN,O,
+16,-,VERB,"verb, past participle",VBN,O,
+16,led,VERB,"verb, past participle",VBN,O,
+16,by,ADP,"conjunction, subordinating or preposition",IN,O,
+16,the,DET,determiner,DT,B,ORG
+16,Coalition,PROPN,"noun, proper singular",NNP,I,ORG
+16,for,ADP,"conjunction, subordinating or preposition",IN,I,ORG
+16,Epidemic,PROPN,"noun, proper singular",NNP,I,ORG
+16,Preparedness,PROPN,"noun, proper singular",NNP,I,ORG
+16,Innovations,PROPN,"noun, proper plural",NNPS,I,ORG
+16,(,PUNCT,left round bracket,-LRB-,I,ORG
+16,CEPI,PROPN,"noun, proper singular",NNP,I,ORG
+16,),PUNCT,right round bracket,-RRB-,O,
+16,",",PUNCT,"punctuation mark, comma",",",O,
+16,Gavi,PROPN,"noun, proper singular",NNP,B,PERSON
+16,",",PUNCT,"punctuation mark, comma",",",O,
+16,the,DET,determiner,DT,B,ORG
+16,Vaccine,PROPN,"noun, proper singular",NNP,I,ORG
+16,Alliance,PROPN,"noun, proper singular",NNP,I,ORG
+16,",",PUNCT,"punctuation mark, comma",",",O,
+16,and,CCONJ,"conjunction, coordinating",CC,O,
+16,the,DET,determiner,DT,B,ORG
+16,World,PROPN,"noun, proper singular",NNP,I,ORG
+16,Health,PROPN,"noun, proper singular",NNP,I,ORG
+16,Organization,PROPN,"noun, proper singular",NNP,I,ORG
+16,(,PUNCT,left round bracket,-LRB-,O,
+16,WHO,PRON,"wh-pronoun, personal",WP,O,
+16,),PUNCT,right round bracket,-RRB-,O,
+16,–,PUNCT,"punctuation mark, colon or ellipsis",:,O,
+16,working,VERB,"verb, gerund or present participle",VBG,O,
+16,in,ADP,"conjunction, subordinating or preposition",IN,O,
+16,partnership,NOUN,"noun, singular or mass",NN,O,
+16,with,ADP,"conjunction, subordinating or preposition",IN,O,
+16,UNICEF,PROPN,"noun, proper singular",NNP,O,
+16,as,ADP,"conjunction, subordinating or preposition",IN,O,
+16,key,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+16,implementing,VERB,"verb, gerund or present participle",VBG,O,
+16,partner,NOUN,"noun, singular or mass",NN,O,
+16,",",PUNCT,"punctuation mark, comma",",",O,
+16,as,ADV,adverb,RB,O,
+16,well,ADV,adverb,RB,O,
+16,as,ADP,"conjunction, subordinating or preposition",IN,O,
+16,civil,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+16,society,NOUN,"noun, singular or mass",NN,O,
+16,organizations,NOUN,"noun, plural",NNS,O,
+16,",",PUNCT,"punctuation mark, comma",",",O,
+16,vaccine,NOUN,"noun, singular or mass",NN,O,
+16,manufacturers,NOUN,"noun, plural",NNS,O,
+16,",",PUNCT,"punctuation mark, comma",",",O,
+16,the,DET,determiner,DT,B,ORG
+16,World,PROPN,"noun, proper singular",NNP,I,ORG
+16,Bank,PROPN,"noun, proper singular",NNP,I,ORG
+16,",",PUNCT,"punctuation mark, comma",",",O,
+16,and,CCONJ,"conjunction, coordinating",CC,O,
+16,others,NOUN,"noun, plural",NNS,O,
+16,.,PUNCT,"punctuation mark, sentence closer",.,O,
+17,"
+",SPACE,whitespace,_SP,O,
+17,Media,NOUN,"noun, singular or mass",NN,O,
+17,contacts,NOUN,"noun, plural",NNS,O,
+17, ,SPACE,whitespace,_SP,O,
+17,DOH,PROPN,"noun, proper singular",NNP,B,ORG
+17, ,SPACE,whitespace,_SP,O,
+17,Lindsay,PROPN,"noun, proper singular",NNP,B,PERSON
+17,Orsolino,PROPN,"noun, proper singular",NNP,I,PERSON
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,Communications,PROPN,"noun, proper singular",NNP,O,
+17,Management,PROPN,"noun, proper singular",NNP,O,
+17,Unit,PROPN,"noun, proper singular",NNP,O,
+17,-,PUNCT,"punctuation mark, hyphen",HYPH,O,
+17,Department,PROPN,"noun, proper singular",NNP,O,
+17,of,ADP,"conjunction, subordinating or preposition",IN,O,
+17,Health,PROPN,"noun, proper singular",NNP,O,
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,lmorsolino@doh.gov.ph,PROPN,"noun, proper singular",NNP,B,GPE
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,+639063812403,NUM,cardinal number,CD,O,
+17, ,SPACE,whitespace,_SP,O,
+17,WHO,PRON,"wh-pronoun, personal",WP,O,
+17,Philippines,PROPN,"noun, proper singular",NNP,B,GPE
+17, ,SPACE,whitespace,_SP,O,
+17,Jun,PROPN,"noun, proper singular",NNP,O,
+17,Ryan,PROPN,"noun, proper singular",NNP,O,
+17,Orbina,PROPN,"noun, proper singular",NNP,O,
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,Communication,PROPN,"noun, proper singular",NNP,O,
+17,Officer,PROPN,"noun, proper singular",NNP,O,
+17,for,ADP,"conjunction, subordinating or preposition",IN,O,
+17,Immunization,PROPN,"noun, proper singular",NNP,O,
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,WHO,PRON,"wh-pronoun, personal",WP,O,
+17,Philippines,VERB,"verb, 3rd person singular present",VBZ,B,GPE
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,orbinaj@who.int,NOUN,"noun, singular or mass",NN,O,
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,+63906,NUM,cardinal number,CD,O,
+17,438,NUM,cardinal number,CD,O,
+17,6312,NUM,cardinal number,CD,O,
+17, ,SPACE,whitespace,_SP,O,
+17,Rocel,PROPN,"noun, proper singular",NNP,O,
+17,Ann,PROPN,"noun, proper singular",NNP,O,
+17,Junio,PROPN,"noun, proper singular",NNP,O,
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,Communication,PROPN,"noun, proper singular",NNP,B,ORG
+17,Officer,PROPN,"noun, proper singular",NNP,I,ORG
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,WHO,PRON,"wh-pronoun, personal",WP,O,
+17,Philippines,PROPN,"noun, proper singular",NNP,B,GPE
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,junior@who.int,NOUN,"noun, singular or mass",NN,B,GPE
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,+63928,NUM,cardinal number,CD,O,
+17,501,NUM,cardinal number,CD,O,
+17,2064,NUM,cardinal number,CD,B,DATE
+17, ,SPACE,whitespace,_SP,O,
+17,UNICEF,PROPN,"noun, proper singular",NNP,O,
+17,Philippines,PROPN,"noun, proper singular",NNP,O,
+17, ,SPACE,whitespace,_SP,O,
+17,Niko,PROPN,"noun, proper singular",NNP,O,
+17,Wieland,PROPN,"noun, proper singular",NNP,O,
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,Chief,PROPN,"noun, proper singular",NNP,O,
+17,of,ADP,"conjunction, subordinating or preposition",IN,O,
+17,Communication,PROPN,"noun, proper singular",NNP,O,
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,UNICEF,PROPN,"noun, proper singular",NNP,B,GPE
+17,Philippines,PROPN,"noun, proper singular",NNP,I,GPE
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,nmwieland@unicef.org,PROPN,"noun, proper singular",NNP,B,ORG
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,+63,NOUN,"noun, singular or mass",NN,O,
+17,917,NUM,cardinal number,CD,B,MONEY
+17,867,NUM,cardinal number,CD,I,MONEY
+17,8366,NUM,cardinal number,CD,I,MONEY
+17,  ,SPACE,whitespace,_SP,O,
+17,https://www.who.int/philippines/news/detail/20-09-2021-ph-receives-first-tranche-of-additional-10m-pfizer-doses-from-covax-facility,PROPN,"noun, proper singular",NNP,O,
+17, ,SPACE,whitespace,_SP,O,
+17,2/3,NUM,cardinal number,CD,B,CARDINAL
+17, ,SPACE,whitespace,_SP,O,
+17,3/18/22,NUM,cardinal number,CD,B,PRODUCT
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,12:53,NUM,cardinal number,CD,B,TIME
+17,AM,NOUN,"noun, singular or mass",NN,I,TIME
+17, ,SPACE,whitespace,_SP,O,
+17,PH,PROPN,"noun, proper singular",NNP,O,
+17,receives,VERB,"verb, 3rd person singular present",VBZ,O,
+17,first,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,B,ORDINAL
+17,tranche,NOUN,"noun, singular or mass",NN,O,
+17,of,ADP,"conjunction, subordinating or preposition",IN,O,
+17,additional,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+17,10,NUM,cardinal number,CD,O,
+17,M,PROPN,"noun, proper singular",NNP,O,
+17,Pfizer,PROPN,"noun, proper singular",NNP,O,
+17,doses,VERB,"verb, 3rd person singular present",VBZ,O,
+17,from,ADP,"conjunction, subordinating or preposition",IN,O,
+17,COVAX,PROPN,"noun, proper singular",NNP,B,ORG
+17,Facility,PROPN,"noun, proper singular",NNP,I,ORG
+17, ,SPACE,whitespace,_SP,I,ORG
+17,Marge,PROPN,"noun, proper singular",NNP,I,ORG
+17,Francia,PROPN,"noun, proper singular",NNP,I,ORG
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,Communication,PROPN,"noun, proper singular",NNP,B,ORG
+17,Officer,PROPN,"noun, proper singular",NNP,I,ORG
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,UNICEF,PROPN,"noun, proper singular",NNP,B,ORG
+17,Philippines,PROPN,"noun, proper singular",NNP,I,ORG
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,mfrancia@unicef.org,PROPN,"noun, proper singular",NNP,B,GPE
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,+63917,NUM,cardinal number,CD,O,
+17,858,NUM,cardinal number,CD,O,
+17,9447,NUM,cardinal number,CD,O,
+17,          ,SPACE,whitespace,_SP,O,
+17,https://www.who.int/philippines/news/detail/20-09-2021-ph-receives-first-tranche-of-additional-10m-pfizer-doses-from-covax-facility,PROPN,"noun, proper singular",NNP,O,
+17, ,SPACE,whitespace,_SP,O,
+17,3/3,NUM,cardinal number,CD,O,

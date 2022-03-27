@@ -1,0 +1,1163 @@
+Sentence_Index,Token,Pos,Explained_Tag,Tag,iob_Tag,Entity_Type
+0,3/18/22,NUM,cardinal number,CD,B,CARDINAL
+0,",",PUNCT,"punctuation mark, comma",",",O,
+0,12:53,NUM,cardinal number,CD,B,TIME
+0,AM,NOUN,"noun, singular or mass",NN,I,TIME
+0, ,SPACE,whitespace,_SP,O,
+0,WHO,PRON,"wh-pronoun, personal",WP,O,
+0,hosts,VERB,"verb, 3rd person singular present",VBZ,O,
+0,dialogue,NOUN,"noun, singular or mass",NN,O,
+0,on,ADP,"conjunction, subordinating or preposition",IN,O,
+0,climate,NOUN,"noun, singular or mass",NN,O,
+0,change,NOUN,"noun, singular or mass",NN,O,
+0,and,CCONJ,"conjunction, coordinating",CC,O,
+0,health,NOUN,"noun, singular or mass",NN,O,
+0, ,SPACE,whitespace,_SP,O,
+0,Western,PROPN,"noun, proper singular",NNP,O,
+0,Pacific,PROPN,"noun, proper singular",NNP,O,
+0, ,SPACE,whitespace,_SP,O,
+0,WHO,PRON,"wh-pronoun, personal",WP,O,
+0,hosts,VERB,"verb, 3rd person singular present",VBZ,O,
+0,dialogue,NOUN,"noun, singular or mass",NN,O,
+0,on,ADP,"conjunction, subordinating or preposition",IN,O,
+0,climate,NOUN,"noun, singular or mass",NN,O,
+0,change,NOUN,"noun, singular or mass",NN,O,
+0,and,CCONJ,"conjunction, coordinating",CC,O,
+0,health,NOUN,"noun, singular or mass",NN,O,
+0, ,SPACE,whitespace,_SP,O,
+0,12,NUM,cardinal number,CD,O,
+0,December,PROPN,"noun, proper singular",NNP,O,
+0,2019,NUM,cardinal number,CD,O,
+0,  ,SPACE,whitespace,_SP,O,
+0,|,NOUN,"noun, singular or mass",NN,O,
+0, ,SPACE,whitespace,_SP,O,
+0,News,PROPN,"noun, proper singular",NNP,O,
+0,release,NOUN,"noun, singular or mass",NN,O,
+0, ,SPACE,whitespace,_SP,O,
+0,|,NOUN,"noun, singular or mass",NN,O,
+0,    ,SPACE,whitespace,_SP,O,
+0,Seoul,PROPN,"noun, proper singular",NNP,B,GPE
+0, ,SPACE,whitespace,_SP,O,
+0,The,DET,determiner,DT,B,ORG
+0,World,PROPN,"noun, proper singular",NNP,I,ORG
+0,Health,PROPN,"noun, proper singular",NNP,I,ORG
+0,Organization,PROPN,"noun, proper singular",NNP,I,ORG
+0,(,PUNCT,left round bracket,-LRB-,O,
+0,WHO,PRON,"wh-pronoun, personal",WP,O,
+0,),PUNCT,right round bracket,-RRB-,O,
+0,Asia,PROPN,"noun, proper singular",NNP,O,
+0,-,PUNCT,"punctuation mark, hyphen",HYPH,O,
+0,Pacific,PROPN,"noun, proper singular",NNP,O,
+0,Centre,PROPN,"noun, proper singular",NNP,O,
+0,for,ADP,"conjunction, subordinating or preposition",IN,O,
+0,Environment,PROPN,"noun, proper singular",NNP,O,
+0,and,CCONJ,"conjunction, coordinating",CC,O,
+0,Health,PROPN,"noun, proper singular",NNP,O,
+0,in,ADP,"conjunction, subordinating or preposition",IN,O,
+0,the,DET,determiner,DT,B,LOC
+0,Western,PROPN,"noun, proper singular",NNP,I,LOC
+0,Pacific,PROPN,"noun, proper singular",NNP,I,LOC
+0,Region,PROPN,"noun, proper singular",NNP,I,LOC
+0,hosted,VERB,"verb, past tense",VBD,O,
+0,a,DET,determiner,DT,O,
+0,dialogue,NOUN,"noun, singular or mass",NN,O,
+0,with,ADP,"conjunction, subordinating or preposition",IN,O,
+0,residents,NOUN,"noun, plural",NNS,O,
+0,of,ADP,"conjunction, subordinating or preposition",IN,O,
+0,Seoul,PROPN,"noun, proper singular",NNP,B,GPE
+0,",",PUNCT,"punctuation mark, comma",",",O,
+0,including,VERB,"verb, gerund or present participle",VBG,O,
+0,students,NOUN,"noun, plural",NNS,O,
+0,of,ADP,"conjunction, subordinating or preposition",IN,O,
+0,the,DET,determiner,DT,B,ORG
+0,Graduate,PROPN,"noun, proper singular",NNP,I,ORG
+0,School,PROPN,"noun, proper singular",NNP,I,ORG
+0,of,ADP,"conjunction, subordinating or preposition",IN,I,ORG
+0,Public,PROPN,"noun, proper singular",NNP,I,ORG
+0,Health,PROPN,"noun, proper singular",NNP,I,ORG
+0,of,ADP,"conjunction, subordinating or preposition",IN,I,ORG
+0,Seoul,PROPN,"noun, proper singular",NNP,I,ORG
+0,National,PROPN,"noun, proper singular",NNP,I,ORG
+0,University,PROPN,"noun, proper singular",NNP,I,ORG
+0,where,SCONJ,wh-adverb,WRB,O,
+0,the,DET,determiner,DT,O,
+0,event,NOUN,"noun, singular or mass",NN,O,
+0,took,VERB,"verb, past tense",VBD,O,
+0,place,NOUN,"noun, singular or mass",NN,O,
+0,.,PUNCT,"punctuation mark, sentence closer",.,O,
+1,"
+",SPACE,whitespace,_SP,O,
+1,International,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+1,experts,NOUN,"noun, plural",NNS,O,
+1,from,ADP,"conjunction, subordinating or preposition",IN,O,
+1,WHO,PROPN,"noun, proper singular",NNP,O,
+1,and,CCONJ,"conjunction, coordinating",CC,O,
+1,leading,VERB,"verb, gerund or present participle",VBG,O,
+1,Korean,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,B,NORP
+1,scientists,NOUN,"noun, plural",NNS,O,
+1,spoke,VERB,"verb, past tense",VBD,O,
+1,with,ADP,"conjunction, subordinating or preposition",IN,O,
+1,young,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+1,people,NOUN,"noun, plural",NNS,O,
+1,about,ADP,"conjunction, subordinating or preposition",IN,O,
+1,threats,NOUN,"noun, plural",NNS,O,
+1,to,ADP,"conjunction, subordinating or preposition",IN,O,
+1,health,NOUN,"noun, singular or mass",NN,O,
+1,posed,VERB,"verb, past participle",VBN,O,
+1,by,ADP,"conjunction, subordinating or preposition",IN,O,
+1,pollution,NOUN,"noun, singular or mass",NN,O,
+1,and,CCONJ,"conjunction, coordinating",CC,O,
+1,climate,NOUN,"noun, singular or mass",NN,O,
+1,change,NOUN,"noun, singular or mass",NN,O,
+1,and,CCONJ,"conjunction, coordinating",CC,O,
+1,priority,NOUN,"noun, singular or mass",NN,O,
+1,actions,NOUN,"noun, plural",NNS,O,
+1,to,PART,"infinitival ""to""",TO,O,
+1,address,VERB,"verb, base form",VB,O,
+1,them,PRON,"pronoun, personal",PRP,O,
+1,.,PUNCT,"punctuation mark, sentence closer",.,O,
+2,"
+",SPACE,whitespace,_SP,O,
+2,Dr,PROPN,"noun, proper singular",NNP,O,
+2,Marco,PROPN,"noun, proper singular",NNP,B,PERSON
+2,Martuzzi,PROPN,"noun, proper singular",NNP,I,PERSON
+2,",",PUNCT,"punctuation mark, comma",",",O,
+2,Head,PROPN,"noun, proper singular",NNP,O,
+2,of,ADP,"conjunction, subordinating or preposition",IN,O,
+2,the,DET,determiner,DT,O,
+2,WHO,PRON,"wh-pronoun, personal",WP,O,
+2,Asia,PROPN,"noun, proper singular",NNP,O,
+2,-,PUNCT,"punctuation mark, hyphen",HYPH,O,
+2,Pacific,PROPN,"noun, proper singular",NNP,O,
+2,Centre,PROPN,"noun, proper singular",NNP,O,
+2,for,ADP,"conjunction, subordinating or preposition",IN,O,
+2,Environment,PROPN,"noun, proper singular",NNP,O,
+2,and,CCONJ,"conjunction, coordinating",CC,O,
+2,Health,PROPN,"noun, proper singular",NNP,O,
+2,in,ADP,"conjunction, subordinating or preposition",IN,O,
+2,the,DET,determiner,DT,B,LOC
+2,Western,PROPN,"noun, proper singular",NNP,I,LOC
+2,Pacific,PROPN,"noun, proper singular",NNP,I,LOC
+2,Region,PROPN,"noun, proper singular",NNP,I,LOC
+2,",",PUNCT,"punctuation mark, comma",",",O,
+2,said,VERB,"verb, past tense",VBD,O,
+2,:,PUNCT,"punctuation mark, colon or ellipsis",:,O,
+2,“,PUNCT,opening quotation mark,``,O,
+2,Every,DET,determiner,DT,B,TIME
+2,single,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,I,TIME
+2,hour,NOUN,"noun, singular or mass",NN,I,TIME
+2,",",PUNCT,"punctuation mark, comma",",",O,
+2,400,NUM,cardinal number,CD,B,CARDINAL
+2,people,NOUN,"noun, plural",NNS,O,
+2,die,VERB,"verb, non-3rd person singular present",VBP,O,
+2,in,ADP,"conjunction, subordinating or preposition",IN,O,
+2,our,PRON,"pronoun, possessive",PRP$,O,
+2,Region,PROPN,"noun, proper singular",NNP,O,
+2,due,ADP,"conjunction, subordinating or preposition",IN,O,
+2,to,ADP,"conjunction, subordinating or preposition",IN,O,
+2,environmental,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+2,factors,NOUN,"noun, plural",NNS,O,
+2,.,PUNCT,"punctuation mark, sentence closer",.,O,
+3,"
+",SPACE,whitespace,_SP,O,
+3,These,PRON,determiner,DT,O,
+3,are,AUX,"verb, non-3rd person singular present",VBP,O,
+3,all,PRON,determiner,DT,O,
+3,tragedies,NOUN,"noun, plural",NNS,O,
+3,",",PUNCT,"punctuation mark, comma",",",O,
+3,and,CCONJ,"conjunction, coordinating",CC,O,
+3,they,PRON,"pronoun, personal",PRP,O,
+3,are,AUX,"verb, non-3rd person singular present",VBP,O,
+3,largely,ADV,adverb,RB,O,
+3,preventable,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+3,.,PUNCT,"punctuation mark, sentence closer",.,O,
+4,"
+",SPACE,whitespace,_SP,O,
+4,If,SCONJ,"conjunction, subordinating or preposition",IN,O,
+4,our,PRON,"pronoun, possessive",PRP$,O,
+4,environment,NOUN,"noun, singular or mass",NN,O,
+4,was,AUX,"verb, past tense",VBD,O,
+4,healthier,ADJ,"adjective, comparative",JJR,O,
+4,–,PUNCT,"punctuation mark, colon or ellipsis",:,O,
+4, ,SPACE,whitespace,_SP,O,
+4,if,SCONJ,"conjunction, subordinating or preposition",IN,O,
+4,air,NOUN,"noun, singular or mass",NN,O,
+4,",",PUNCT,"punctuation mark, comma",",",O,
+4,water,NOUN,"noun, singular or mass",NN,O,
+4,and,CCONJ,"conjunction, coordinating",CC,O,
+4,soil,NOUN,"noun, singular or mass",NN,O,
+4,were,AUX,"verb, past tense",VBD,O,
+4,cleaner,ADJ,"adjective, comparative",JJR,O,
+4,",",PUNCT,"punctuation mark, comma",",",O,
+4,and,CCONJ,"conjunction, coordinating",CC,O,
+4,work,NOUN,"noun, singular or mass",NN,O,
+4,environments,NOUN,"noun, plural",NNS,O,
+4,were,AUX,"verb, past tense",VBD,O,
+4,healthier,ADJ,"adjective, comparative",JJR,O,
+4,",",PUNCT,"punctuation mark, comma",",",O,
+4,millions,NOUN,"noun, plural",NNS,B,CARDINAL
+4,of,ADP,"conjunction, subordinating or preposition",IN,O,
+4,people,NOUN,"noun, plural",NNS,O,
+4,could,AUX,"verb, modal auxiliary",MD,O,
+4,live,VERB,"verb, base form",VB,O,
+4,longer,ADV,"adverb, comparative",RBR,O,
+4,",",PUNCT,"punctuation mark, comma",",",O,
+4,better,ADJ,"adjective, comparative",JJR,O,
+4,lives,NOUN,"noun, plural",NNS,O,
+4,.,PUNCT,"punctuation mark, sentence closer",.,O,
+4,”,PUNCT,closing quotation mark,'',O,
+5, ,SPACE,whitespace,_SP,O,
+5,Environmental,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+5,health,NOUN,"noun, singular or mass",NN,O,
+5,experts,NOUN,"noun, plural",NNS,O,
+5,highlighted,VERB,"verb, past tense",VBD,O,
+5,the,DET,determiner,DT,O,
+5,wide,ADV,adverb,RB,O,
+5,-,PUNCT,"punctuation mark, hyphen",HYPH,O,
+5,ranging,VERB,"verb, gerund or present participle",VBG,O,
+5,impacts,NOUN,"noun, plural",NNS,O,
+5,of,ADP,"conjunction, subordinating or preposition",IN,O,
+5,environmental,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+5,pollution,NOUN,"noun, singular or mass",NN,O,
+5,and,CCONJ,"conjunction, coordinating",CC,O,
+5,climate,NOUN,"noun, singular or mass",NN,O,
+5,change,NOUN,"noun, singular or mass",NN,O,
+5,on,ADP,"conjunction, subordinating or preposition",IN,O,
+5,health,NOUN,"noun, singular or mass",NN,O,
+5,.,PUNCT,"punctuation mark, sentence closer",.,O,
+6,"
+",SPACE,whitespace,_SP,O,
+6,These,PRON,determiner,DT,O,
+6,include,VERB,"verb, non-3rd person singular present",VBP,O,
+6,mental,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+6,health,NOUN,"noun, singular or mass",NN,O,
+6,and,CCONJ,"conjunction, coordinating",CC,O,
+6,other,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+6,chronic,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+6,conditions,NOUN,"noun, plural",NNS,O,
+6,such,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+6,as,ADP,"conjunction, subordinating or preposition",IN,O,
+6,heart,NOUN,"noun, singular or mass",NN,O,
+6,and,CCONJ,"conjunction, coordinating",CC,O,
+6,lung,NOUN,"noun, singular or mass",NN,O,
+6,disease,NOUN,"noun, singular or mass",NN,O,
+6,",",PUNCT,"punctuation mark, comma",",",O,
+6,stroke,NOUN,"noun, singular or mass",NN,O,
+6,and,CCONJ,"conjunction, coordinating",CC,O,
+6,cancer,NOUN,"noun, singular or mass",NN,O,
+6,",",PUNCT,"punctuation mark, comma",",",O,
+6,to,ADP,"conjunction, subordinating or preposition",IN,O,
+6,diseases,NOUN,"noun, plural",NNS,O,
+6,such,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+6,as,ADP,"conjunction, subordinating or preposition",IN,O,
+6,dengue,NOUN,"noun, singular or mass",NN,O,
+6,and,CCONJ,"conjunction, coordinating",CC,O,
+6,malaria,NOUN,"noun, singular or mass",NN,O,
+6,which,PRON,wh-determiner,WDT,O,
+6,are,AUX,"verb, non-3rd person singular present",VBP,O,
+6,spread,VERB,"verb, past participle",VBN,O,
+6,by,ADP,"conjunction, subordinating or preposition",IN,O,
+6,mosquitoes,NOUN,"noun, plural",NNS,O,
+6,and,CCONJ,"conjunction, coordinating",CC,O,
+6,affect,VERB,"verb, base form",VB,O,
+6,increasing,VERB,"verb, gerund or present participle",VBG,O,
+6,large,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+6,populations,NOUN,"noun, plural",NNS,O,
+6,due,ADP,"conjunction, subordinating or preposition",IN,O,
+6,to,ADP,"conjunction, subordinating or preposition",IN,O,
+6,changing,VERB,"verb, gerund or present participle",VBG,O,
+6,climate,NOUN,"noun, singular or mass",NN,O,
+6,and,CCONJ,"conjunction, coordinating",CC,O,
+6,environmental,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+6,factors,NOUN,"noun, plural",NNS,O,
+6,.,PUNCT,"punctuation mark, sentence closer",.,O,
+7,"
+",SPACE,whitespace,_SP,O,
+7,Speakers,PROPN,"noun, proper singular",NNP,O,
+7,also,ADV,adverb,RB,O,
+7,stressed,VERB,"verb, past tense",VBD,O,
+7,the,DET,determiner,DT,O,
+7,health,NOUN,"noun, singular or mass",NN,O,
+7,impact,NOUN,"noun, singular or mass",NN,O,
+7,and,CCONJ,"conjunction, coordinating",CC,O,
+7,the,DET,determiner,DT,O,
+7,huge,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+7,costs,NOUN,"noun, plural",NNS,O,
+7,of,ADP,"conjunction, subordinating or preposition",IN,O,
+7,increasingly,ADV,adverb,RB,O,
+7,common,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+7,extreme,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+7,weather,NOUN,"noun, singular or mass",NN,O,
+7,events,NOUN,"noun, plural",NNS,O,
+7,such,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+7,as,ADP,"conjunction, subordinating or preposition",IN,O,
+7,floods,NOUN,"noun, plural",NNS,O,
+7,",",PUNCT,"punctuation mark, comma",",",O,
+7,hurricanes,NOUN,"noun, plural",NNS,O,
+7,and,CCONJ,"conjunction, coordinating",CC,O,
+7,heatwaves,NOUN,"noun, plural",NNS,O,
+7,.,PUNCT,"punctuation mark, sentence closer",.,O,
+8,"
+",SPACE,whitespace,_SP,O,
+9,If,SCONJ,"conjunction, subordinating or preposition",IN,O,
+9,current,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+9,trends,NOUN,"noun, plural",NNS,O,
+9,continue,VERB,"verb, non-3rd person singular present",VBP,O,
+9,",",PUNCT,"punctuation mark, comma",",",O,
+9,an,DET,determiner,DT,B,CARDINAL
+9,estimated,VERB,"verb, past participle",VBN,I,CARDINAL
+9,250,NUM,cardinal number,CD,I,CARDINAL
+9,000,NUM,cardinal number,CD,I,CARDINAL
+9,additional,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+9,deaths,NOUN,"noun, plural",NNS,O,
+9,are,AUX,"verb, non-3rd person singular present",VBP,O,
+9,expected,VERB,"verb, past participle",VBN,O,
+9,globally,ADV,adverb,RB,O,
+9,each,DET,determiner,DT,B,DATE
+9,year,NOUN,"noun, singular or mass",NN,I,DATE
+9,from,ADP,"conjunction, subordinating or preposition",IN,O,
+9,2030,NUM,cardinal number,CD,B,DATE
+9,.,PUNCT,"punctuation mark, sentence closer",.,O,
+10,"
+",SPACE,whitespace,_SP,O,
+10,All,DET,determiner,DT,O,
+10,people,NOUN,"noun, plural",NNS,O,
+10,in,ADP,"conjunction, subordinating or preposition",IN,O,
+10,the,DET,determiner,DT,B,LOC
+10,Western,PROPN,"noun, proper singular",NNP,I,LOC
+10,Pacific,PROPN,"noun, proper singular",NNP,I,LOC
+10,Region,PROPN,"noun, proper singular",NNP,I,LOC
+10,are,AUX,"verb, non-3rd person singular present",VBP,O,
+10,affected,VERB,"verb, past participle",VBN,O,
+10,",",PUNCT,"punctuation mark, comma",",",O,
+10,but,CCONJ,"conjunction, coordinating",CC,O,
+10,some,PRON,determiner,DT,O,
+10,bear,VERB,"verb, non-3rd person singular present",VBP,O,
+10,a,DET,determiner,DT,O,
+10,disproportionate,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+10,burden,NOUN,"noun, singular or mass",NN,O,
+10,.,PUNCT,"punctuation mark, sentence closer",.,O,
+11,"
+",SPACE,whitespace,_SP,O,
+11,For,ADP,"conjunction, subordinating or preposition",IN,O,
+11,example,NOUN,"noun, singular or mass",NN,O,
+11,",",PUNCT,"punctuation mark, comma",",",O,
+11,the,DET,determiner,DT,O,
+11,small,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+11,island,NOUN,"noun, singular or mass",NN,O,
+11,states,NOUN,"noun, plural",NNS,O,
+11,in,ADP,"conjunction, subordinating or preposition",IN,O,
+11,the,DET,determiner,DT,O,
+11,Pacific,PROPN,"noun, proper singular",NNP,B,LOC
+11,are,AUX,"verb, non-3rd person singular present",VBP,O,
+11,highly,ADV,adverb,RB,O,
+11,vulnerable,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+11,to,ADP,"conjunction, subordinating or preposition",IN,O,
+11,rising,VERB,"verb, gerund or present participle",VBG,O,
+11,sea,NOUN,"noun, singular or mass",NN,O,
+11,levels,NOUN,"noun, plural",NNS,O,
+11,",",PUNCT,"punctuation mark, comma",",",O,
+11,which,PRON,wh-determiner,WDT,O,
+11,",",PUNCT,"punctuation mark, comma",",",O,
+11,combined,VERB,"verb, past participle",VBN,O,
+11,with,ADP,"conjunction, subordinating or preposition",IN,O,
+11,limited,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+11,or,CCONJ,"conjunction, coordinating",CC,O,
+11, ,SPACE,whitespace,_SP,O,
+11,https://www.who.int/westernpacific/news/item/12-12-2019-who-hosts-dialogue-on-climate-change-and-health,PROPN,"noun, proper singular",NNP,O,
+11, ,SPACE,whitespace,_SP,O,
+11,1/3,NUM,cardinal number,CD,B,CARDINAL
+11, ,SPACE,whitespace,_SP,O,
+11,3/18/22,NUM,cardinal number,CD,B,CARDINAL
+11,",",PUNCT,"punctuation mark, comma",",",O,
+11,12:53,NUM,cardinal number,CD,B,TIME
+11,AM,NOUN,"noun, singular or mass",NN,I,TIME
+11, ,SPACE,whitespace,_SP,O,
+11,WHO,PRON,"wh-pronoun, personal",WP,O,
+11,hosts,VERB,"verb, 3rd person singular present",VBZ,O,
+11,dialogue,NOUN,"noun, singular or mass",NN,O,
+11,on,ADP,"conjunction, subordinating or preposition",IN,O,
+11,climate,NOUN,"noun, singular or mass",NN,O,
+11,change,NOUN,"noun, singular or mass",NN,O,
+11,and,CCONJ,"conjunction, coordinating",CC,O,
+11,health,NOUN,"noun, singular or mass",NN,O,
+11, ,SPACE,whitespace,_SP,O,
+11,vulnerable,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+11,infrastructure,NOUN,"noun, singular or mass",NN,O,
+11,",",PUNCT,"punctuation mark, comma",",",O,
+11,can,AUX,"verb, modal auxiliary",MD,O,
+11,have,VERB,"verb, base form",VB,O,
+11,devastating,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+11,consequences,NOUN,"noun, plural",NNS,O,
+11,for,ADP,"conjunction, subordinating or preposition",IN,O,
+11,people,NOUN,"noun, plural",NNS,O,
+11,’s,PART,possessive ending,POS,O,
+11,health,NOUN,"noun, singular or mass",NN,O,
+11,and,CCONJ,"conjunction, coordinating",CC,O,
+11,livelihoods,NOUN,"noun, plural",NNS,O,
+11,.,PUNCT,"punctuation mark, sentence closer",.,O,
+12,"
+",SPACE,whitespace,_SP,O,
+12,Access,PROPN,"noun, proper singular",NNP,O,
+12,to,ADP,"conjunction, subordinating or preposition",IN,O,
+12,safe,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+12,water,NOUN,"noun, singular or mass",NN,O,
+12,–,PUNCT,"punctuation mark, colon or ellipsis",:,O,
+12,not,PART,adverb,RB,O,
+12,available,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+12,to,ADP,"conjunction, subordinating or preposition",IN,O,
+12,all,PRON,determiner,DT,O,
+12,in,ADP,"conjunction, subordinating or preposition",IN,O,
+12,some,DET,determiner,DT,O,
+12,countries,NOUN,"noun, plural",NNS,O,
+12,–,PUNCT,"punctuation mark, colon or ellipsis",:,O,
+12,is,AUX,"verb, 3rd person singular present",VBZ,O,
+12,another,DET,determiner,DT,O,
+12,striking,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+12,example,NOUN,"noun, singular or mass",NN,O,
+12,of,ADP,"conjunction, subordinating or preposition",IN,O,
+12,inequalities,NOUN,"noun, plural",NNS,O,
+12,.,PUNCT,"punctuation mark, sentence closer",.,O,
+13,"
+",SPACE,whitespace,_SP,O,
+13,Climate,NOUN,"noun, singular or mass",NN,O,
+13,change,NOUN,"noun, singular or mass",NN,O,
+13,and,CCONJ,"conjunction, coordinating",CC,O,
+13,the,DET,determiner,DT,O,
+13,environment,NOUN,"noun, singular or mass",NN,O,
+13,is,AUX,"verb, 3rd person singular present",VBZ,O,
+13,one,NUM,cardinal number,CD,B,CARDINAL
+13,of,ADP,"conjunction, subordinating or preposition",IN,O,
+13,four,NUM,cardinal number,CD,B,CARDINAL
+13,strategic,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+13,priorities,NOUN,"noun, plural",NNS,O,
+13,for,ADP,"conjunction, subordinating or preposition",IN,O,
+13,WHO,PRON,"wh-pronoun, personal",WP,B,ORG
+13,’s,PART,possessive ending,POS,O,
+13,work,NOUN,"noun, singular or mass",NN,O,
+13,in,ADP,"conjunction, subordinating or preposition",IN,O,
+13,the,DET,determiner,DT,B,LOC
+13,Western,PROPN,"noun, proper singular",NNP,I,LOC
+13,Pacific,PROPN,"noun, proper singular",NNP,I,LOC
+13,Region,PROPN,"noun, proper singular",NNP,I,LOC
+13,.,PUNCT,"punctuation mark, sentence closer",.,O,
+14,"
+",SPACE,whitespace,_SP,O,
+14,WHO,PRON,"wh-pronoun, personal",WP,O,
+14,is,AUX,"verb, 3rd person singular present",VBZ,O,
+14,firmly,ADV,adverb,RB,O,
+14,committed,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+14,to,ADP,"conjunction, subordinating or preposition",IN,O,
+14,supporting,VERB,"verb, gerund or present participle",VBG,O,
+14,all,DET,determiner,DT,O,
+14,Member,PROPN,"noun, proper singular",NNP,O,
+14,States,PROPN,"noun, proper singular",NNP,O,
+14,to,PART,"infinitival ""to""",TO,O,
+14,respond,VERB,"verb, base form",VB,O,
+14,to,ADP,"conjunction, subordinating or preposition",IN,O,
+14,these,DET,determiner,DT,O,
+14,challenges,NOUN,"noun, plural",NNS,O,
+14,",",PUNCT,"punctuation mark, comma",",",O,
+14,using,VERB,"verb, gerund or present participle",VBG,O,
+14,innovative,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+14,approaches,NOUN,"noun, plural",NNS,O,
+14,.,PUNCT,"punctuation mark, sentence closer",.,O,
+15,"
+",SPACE,whitespace,_SP,O,
+15,“,PUNCT,opening quotation mark,``,O,
+15,The,DET,determiner,DT,O,
+15,generous,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+15,support,NOUN,"noun, singular or mass",NN,O,
+15,of,ADP,"conjunction, subordinating or preposition",IN,O,
+15,the,DET,determiner,DT,B,GPE
+15,Republic,PROPN,"noun, proper singular",NNP,I,GPE
+15,of,ADP,"conjunction, subordinating or preposition",IN,I,GPE
+15,Korea,PROPN,"noun, proper singular",NNP,I,GPE
+15,’s,PART,possessive ending,POS,I,GPE
+15,Ministry,PROPN,"noun, proper singular",NNP,B,ORG
+15,of,ADP,"conjunction, subordinating or preposition",IN,I,ORG
+15,Environment,PROPN,"noun, proper singular",NNP,I,ORG
+15,and,CCONJ,"conjunction, coordinating",CC,O,
+15,the,DET,determiner,DT,B,ORG
+15,Seoul,PROPN,"noun, proper singular",NNP,I,ORG
+15,Metropolitan,PROPN,"noun, proper singular",NNP,I,ORG
+15,Government,PROPN,"noun, proper singular",NNP,I,ORG
+15,is,AUX,"verb, 3rd person singular present",VBZ,O,
+15,enabling,VERB,"verb, gerund or present participle",VBG,O,
+15,us,PRON,"pronoun, personal",PRP,O,
+15,to,PART,"infinitival ""to""",TO,O,
+15,ramp,VERB,"verb, base form",VB,O,
+15,up,ADP,"adverb, particle",RP,O,
+15,our,PRON,"pronoun, possessive",PRP$,O,
+15,support,NOUN,"noun, singular or mass",NN,O,
+15,to,ADP,"conjunction, subordinating or preposition",IN,O,
+15,countries,NOUN,"noun, plural",NNS,O,
+15,",",PUNCT,"punctuation mark, comma",",",O,
+15,by,ADP,"conjunction, subordinating or preposition",IN,O,
+15,hosting,VERB,"verb, gerund or present participle",VBG,O,
+15,and,CCONJ,"conjunction, coordinating",CC,O,
+15,financing,VERB,"verb, gerund or present participle",VBG,O,
+15,the,DET,determiner,DT,B,LOC
+15,Asia,PROPN,"noun, proper singular",NNP,I,LOC
+15,-,PUNCT,"punctuation mark, hyphen",HYPH,I,LOC
+15,Pacific,PROPN,"noun, proper singular",NNP,I,LOC
+15,Centre,PROPN,"noun, proper singular",NNP,I,LOC
+15,for,ADP,"conjunction, subordinating or preposition",IN,I,LOC
+15,Environment,PROPN,"noun, proper singular",NNP,I,LOC
+15,and,CCONJ,"conjunction, coordinating",CC,I,LOC
+15,Health,PROPN,"noun, proper singular",NNP,I,LOC
+15,in,ADP,"conjunction, subordinating or preposition",IN,O,
+15,Seoul,PROPN,"noun, proper singular",NNP,B,GPE
+15,.,PUNCT,"punctuation mark, sentence closer",.,O,
+16,"
+",SPACE,whitespace,_SP,O,
+16,The,DET,determiner,DT,O,
+16,Centre,PROPN,"noun, proper singular",NNP,O,
+16,will,AUX,"verb, modal auxiliary",MD,O,
+16,gather,VERB,"verb, base form",VB,O,
+16,state-,NOUN,"noun, singular or mass",NN,O,
+16,of,ADP,"conjunction, subordinating or preposition",IN,O,
+16,-,PUNCT,"punctuation mark, hyphen",HYPH,O,
+16,the,DET,determiner,DT,O,
+16,-,PUNCT,"punctuation mark, hyphen",HYPH,O,
+16,art,NOUN,"noun, singular or mass",NN,O,
+16,evidence,NOUN,"noun, singular or mass",NN,O,
+16,",",PUNCT,"punctuation mark, comma",",",O,
+16,mobilize,VERB,"verb, base form",VB,O,
+16,experts,NOUN,"noun, plural",NNS,O,
+16,and,CCONJ,"conjunction, coordinating",CC,O,
+16,establish,VERB,"verb, base form",VB,O,
+16,a,DET,determiner,DT,O,
+16,science,NOUN,"noun, singular or mass",NN,O,
+16,-,PUNCT,"punctuation mark, hyphen",HYPH,O,
+16,informed,VERB,"verb, past participle",VBN,O,
+16,dialogue,NOUN,"noun, singular or mass",NN,O,
+16,with,ADP,"conjunction, subordinating or preposition",IN,O,
+16,decision,NOUN,"noun, singular or mass",NN,O,
+16,makers,NOUN,"noun, plural",NNS,O,
+16,and,CCONJ,"conjunction, coordinating",CC,O,
+16,other,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+16,stakeholders,NOUN,"noun, plural",NNS,O,
+16,.,PUNCT,"punctuation mark, sentence closer",.,O,
+17,"
+",SPACE,whitespace,_SP,O,
+17,Thanks,NOUN,"noun, plural",NNS,O,
+17,to,ADP,"conjunction, subordinating or preposition",IN,O,
+17,the,DET,determiner,DT,O,
+17,Centre,PROPN,"noun, proper singular",NNP,O,
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,WHO,PRON,"wh-pronoun, personal",WP,O,
+17,will,AUX,"verb, modal auxiliary",MD,O,
+17,advocate,VERB,"verb, base form",VB,O,
+17,more,ADV,"adverb, comparative",RBR,O,
+17,forcefully,ADV,adverb,RB,O,
+17,for,ADP,"conjunction, subordinating or preposition",IN,O,
+17,health-,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+17,friendly,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+17,environmental,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+17,policies,NOUN,"noun, plural",NNS,O,
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,”,PUNCT,closing quotation mark,'',O,
+17,said,VERB,"verb, past tense",VBD,O,
+17,Dr,PROPN,"noun, proper singular",NNP,O,
+17,Takeshi,PROPN,"noun, proper singular",NNP,B,PERSON
+17,Kasai,PROPN,"noun, proper singular",NNP,I,PERSON
+17,",",PUNCT,"punctuation mark, comma",",",O,
+17,WHO,PRON,"wh-pronoun, personal",WP,O,
+17,Regional,PROPN,"noun, proper singular",NNP,O,
+17,Director,PROPN,"noun, proper singular",NNP,O,
+17,for,ADP,"conjunction, subordinating or preposition",IN,O,
+17,the,DET,determiner,DT,B,ORG
+17,Western,PROPN,"noun, proper singular",NNP,I,ORG
+17,Pacific,PROPN,"noun, proper singular",NNP,I,ORG
+17,.,PUNCT,"punctuation mark, sentence closer",.,O,
+18,"
+",SPACE,whitespace,_SP,O,
+19,The,DET,determiner,DT,O,
+19,Centre,PROPN,"noun, proper singular",NNP,O,
+19,benefits,VERB,"verb, 3rd person singular present",VBZ,O,
+19,greatly,ADV,adverb,RB,O,
+19,from,ADP,"conjunction, subordinating or preposition",IN,O,
+19,the,DET,determiner,DT,O,
+19,engagement,NOUN,"noun, singular or mass",NN,O,
+19,of,ADP,"conjunction, subordinating or preposition",IN,O,
+19,leading,VERB,"verb, gerund or present participle",VBG,O,
+19,researchers,NOUN,"noun, plural",NNS,O,
+19,in,ADP,"conjunction, subordinating or preposition",IN,O,
+19,the,DET,determiner,DT,B,GPE
+19,Republic,PROPN,"noun, proper singular",NNP,I,GPE
+19,of,ADP,"conjunction, subordinating or preposition",IN,I,GPE
+19,Korea,PROPN,"noun, proper singular",NNP,I,GPE
+19,and,CCONJ,"conjunction, coordinating",CC,O,
+19,the,DET,determiner,DT,O,
+19,Region,PROPN,"noun, proper singular",NNP,O,
+19,at,ADP,"conjunction, subordinating or preposition",IN,O,
+19,large,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+19,.,PUNCT,"punctuation mark, sentence closer",.,O,
+20,"
+",SPACE,whitespace,_SP,O,
+20,The,DET,determiner,DT,O,
+20,Centre,PROPN,"noun, proper singular",NNP,O,
+20,will,AUX,"verb, modal auxiliary",MD,O,
+20,contribute,VERB,"verb, base form",VB,O,
+20,to,ADP,"conjunction, subordinating or preposition",IN,O,
+20,public,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+20,debate,NOUN,"noun, singular or mass",NN,O,
+20,on,ADP,"conjunction, subordinating or preposition",IN,O,
+20,environment,NOUN,"noun, singular or mass",NN,O,
+20,and,CCONJ,"conjunction, coordinating",CC,O,
+20,health,NOUN,"noun, singular or mass",NN,O,
+20,",",PUNCT,"punctuation mark, comma",",",O,
+20,raising,VERB,"verb, gerund or present participle",VBG,O,
+20,awareness,NOUN,"noun, singular or mass",NN,O,
+20,and,CCONJ,"conjunction, coordinating",CC,O,
+20,providing,VERB,"verb, gerund or present participle",VBG,O,
+20,impartial,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+20,information,NOUN,"noun, singular or mass",NN,O,
+20,on,ADP,"conjunction, subordinating or preposition",IN,O,
+20,what,DET,wh-determiner,WDT,O,
+20,governments,NOUN,"noun, plural",NNS,O,
+20,",",PUNCT,"punctuation mark, comma",",",O,
+20,communities,NOUN,"noun, plural",NNS,O,
+20,",",PUNCT,"punctuation mark, comma",",",O,
+20,families,NOUN,"noun, plural",NNS,O,
+20,and,CCONJ,"conjunction, coordinating",CC,O,
+20,individuals,NOUN,"noun, plural",NNS,O,
+20,can,AUX,"verb, modal auxiliary",MD,O,
+20,do,AUX,"verb, base form",VB,O,
+20,to,PART,"infinitival ""to""",TO,O,
+20,protect,VERB,"verb, base form",VB,O,
+20,health,NOUN,"noun, singular or mass",NN,O,
+20,in,ADP,"conjunction, subordinating or preposition",IN,O,
+20,a,DET,determiner,DT,O,
+20,changing,VERB,"verb, gerund or present participle",VBG,O,
+20,environment,NOUN,"noun, singular or mass",NN,O,
+20,.,PUNCT,"punctuation mark, sentence closer",.,O,
+21,"
+",SPACE,whitespace,_SP,O,
+21,Notes,NOUN,"noun, plural",NNS,O,
+21,to,ADP,"conjunction, subordinating or preposition",IN,O,
+21,editors,NOUN,"noun, plural",NNS,O,
+21,    ,SPACE,whitespace,_SP,O,
+21,The,DET,determiner,DT,O,
+21,WHO,PRON,"wh-pronoun, personal",WP,O,
+21,Asia,PROPN,"noun, proper singular",NNP,O,
+21,-,PUNCT,"punctuation mark, hyphen",HYPH,O,
+21,Pacific,PROPN,"noun, proper singular",NNP,O,
+21,Centre,PROPN,"noun, proper singular",NNP,O,
+21,for,ADP,"conjunction, subordinating or preposition",IN,O,
+21,Environment,PROPN,"noun, proper singular",NNP,O,
+21,and,CCONJ,"conjunction, coordinating",CC,O,
+21,Health,PROPN,"noun, proper singular",NNP,O,
+21,in,ADP,"conjunction, subordinating or preposition",IN,O,
+21,the,DET,determiner,DT,B,LOC
+21,Western,PROPN,"noun, proper singular",NNP,I,LOC
+21,Pacific,PROPN,"noun, proper singular",NNP,I,LOC
+21,Region,PROPN,"noun, proper singular",NNP,I,LOC
+21,is,AUX,"verb, 3rd person singular present",VBZ,O,
+21,hosted,VERB,"verb, past participle",VBN,O,
+21,by,ADP,"conjunction, subordinating or preposition",IN,O,
+21,the,DET,determiner,DT,B,GPE
+21,Republic,PROPN,"noun, proper singular",NNP,I,GPE
+21,of,ADP,"conjunction, subordinating or preposition",IN,I,GPE
+21,Korea,PROPN,"noun, proper singular",NNP,I,GPE
+21,in,ADP,"conjunction, subordinating or preposition",IN,O,
+21,office,NOUN,"noun, singular or mass",NN,O,
+21,space,NOUN,"noun, singular or mass",NN,O,
+21,provided,VERB,"verb, past participle",VBN,O,
+21,by,ADP,"conjunction, subordinating or preposition",IN,O,
+21,the,DET,determiner,DT,B,GPE
+21,City,PROPN,"noun, proper singular",NNP,I,GPE
+21,of,ADP,"conjunction, subordinating or preposition",IN,I,GPE
+21,Seoul,PROPN,"noun, proper singular",NNP,I,GPE
+21,",",PUNCT,"punctuation mark, comma",",",O,
+21,at,ADP,"conjunction, subordinating or preposition",IN,O,
+21,38,NUM,cardinal number,CD,B,CARDINAL
+21,jongro,NOUN,"noun, singular or mass",NN,O,
+21,",",PUNCT,"punctuation mark, comma",",",O,
+21,jongro,PROPN,"noun, proper singular",NNP,O,
+21,-,PUNCT,"punctuation mark, hyphen",HYPH,O,
+21,gu,PROPN,"noun, proper singular",NNP,O,
+21,",",PUNCT,"punctuation mark, comma",",",O,
+21,Seoul,PROPN,"noun, proper singular",NNP,B,GPE
+21,",",PUNCT,"punctuation mark, comma",",",O,
+21,110,NUM,cardinal number,CD,B,CARDINAL
+21,-,SYM,symbol,SYM,O,
+21,110,NUM,cardinal number,CD,O,
+21,.,PUNCT,"punctuation mark, sentence closer",.,O,
+22,"
+",SPACE,whitespace,_SP,O,
+23,The,DET,determiner,DT,O,
+23,work,NOUN,"noun, singular or mass",NN,O,
+23,of,ADP,"conjunction, subordinating or preposition",IN,O,
+23,the,DET,determiner,DT,O,
+23,Centre,PROPN,"noun, proper singular",NNP,O,
+23,cuts,VERB,"verb, 3rd person singular present",VBZ,O,
+23,across,ADP,"conjunction, subordinating or preposition",IN,O,
+23,three,NUM,cardinal number,CD,B,CARDINAL
+23,key,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+23,areas,NOUN,"noun, plural",NNS,O,
+23,",",PUNCT,"punctuation mark, comma",",",O,
+23,in,ADP,"conjunction, subordinating or preposition",IN,O,
+23,line,NOUN,"noun, singular or mass",NN,O,
+23,with,ADP,"conjunction, subordinating or preposition",IN,O,
+23,relevant,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+23,Sustainable,PROPN,"noun, proper singular",NNP,O,
+23,Development,PROPN,"noun, proper singular",NNP,O,
+23,Goals,PROPN,"noun, proper plural",NNPS,O,
+23,:,PUNCT,"punctuation mark, colon or ellipsis",:,O,
+23, ,SPACE,whitespace,_SP,O,
+23,Air,NOUN,"noun, singular or mass",NN,O,
+23,quality,NOUN,"noun, singular or mass",NN,O,
+23,",",PUNCT,"punctuation mark, comma",",",O,
+23,energy,NOUN,"noun, singular or mass",NN,O,
+23,and,CCONJ,"conjunction, coordinating",CC,O,
+23,health,NOUN,"noun, singular or mass",NN,O,
+23,—,PUNCT,"punctuation mark, colon or ellipsis",:,O,
+23,addressing,VERB,"verb, gerund or present participle",VBG,O,
+23,the,DET,determiner,DT,O,
+23,health,NOUN,"noun, singular or mass",NN,O,
+23,impact,NOUN,"noun, singular or mass",NN,O,
+23,of,ADP,"conjunction, subordinating or preposition",IN,O,
+23,air,NOUN,"noun, singular or mass",NN,O,
+23,pollution,NOUN,"noun, singular or mass",NN,O,
+23,and,CCONJ,"conjunction, coordinating",CC,O,
+23,energy,NOUN,"noun, singular or mass",NN,O,
+23,policy,NOUN,"noun, singular or mass",NN,O,
+23,",",PUNCT,"punctuation mark, comma",",",O,
+23,focusing,VERB,"verb, gerund or present participle",VBG,O,
+23,on,ADP,"conjunction, subordinating or preposition",IN,O,
+23,transboundary,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+23,air,NOUN,"noun, singular or mass",NN,O,
+23,pollution,NOUN,"noun, singular or mass",NN,O,
+23,including,VERB,"verb, gerund or present participle",VBG,O,
+23,haze,NOUN,"noun, singular or mass",NN,O,
+23,in,ADP,"conjunction, subordinating or preposition",IN,O,
+23,South,PROPN,"noun, proper singular",NNP,B,LOC
+23,-,PUNCT,"punctuation mark, hyphen",HYPH,I,LOC
+23,East,PROPN,"noun, proper singular",NNP,I,LOC
+23,Asia,PROPN,"noun, proper singular",NNP,I,LOC
+23,and,CCONJ,"conjunction, coordinating",CC,O,
+23,dust,NOUN,"noun, singular or mass",NN,O,
+23,and,CCONJ,"conjunction, coordinating",CC,O,
+23,sandstorms,NOUN,"noun, plural",NNS,O,
+23,in,ADP,"conjunction, subordinating or preposition",IN,O,
+23,North,PROPN,"noun, proper singular",NNP,B,LOC
+23,-,PUNCT,"punctuation mark, hyphen",HYPH,I,LOC
+23,East,PROPN,"noun, proper singular",NNP,I,LOC
+23,Asia,PROPN,"noun, proper singular",NNP,I,LOC
+23,",",PUNCT,"punctuation mark, comma",",",O,
+23,in,ADP,"conjunction, subordinating or preposition",IN,O,
+23,line,NOUN,"noun, singular or mass",NN,O,
+23,with,ADP,"conjunction, subordinating or preposition",IN,O,
+23,the,DET,determiner,DT,O,
+23,target,NOUN,"noun, singular or mass",NN,O,
+23,of,ADP,"conjunction, subordinating or preposition",IN,O,
+23,reducing,VERB,"verb, gerund or present participle",VBG,O,
+23,deaths,NOUN,"noun, plural",NNS,O,
+23,from,ADP,"conjunction, subordinating or preposition",IN,O,
+23,air,NOUN,"noun, singular or mass",NN,O,
+23,pollution,NOUN,"noun, singular or mass",NN,O,
+23,by,ADP,"conjunction, subordinating or preposition",IN,O,
+23,5,NUM,cardinal number,CD,B,PERCENT
+23,%,NOUN,"noun, singular or mass",NN,I,PERCENT
+23,by,ADP,"conjunction, subordinating or preposition",IN,O,
+23,2023,NUM,cardinal number,CD,B,DATE
+23,.,PUNCT,"punctuation mark, sentence closer",.,O,
+24,"
+",SPACE,whitespace,_SP,O,
+24,Climate,NOUN,"noun, singular or mass",NN,O,
+24,change,NOUN,"noun, singular or mass",NN,O,
+24,and,CCONJ,"conjunction, coordinating",CC,O,
+24,health,NOUN,"noun, singular or mass",NN,O,
+24,—,PUNCT,"punctuation mark, colon or ellipsis",:,O,
+24,helping,VERB,"verb, gerund or present participle",VBG,O,
+24,to,PART,"infinitival ""to""",TO,O,
+24,build,VERB,"verb, base form",VB,O,
+24,climate,NOUN,"noun, singular or mass",NN,O,
+24,-,PUNCT,"punctuation mark, hyphen",HYPH,O,
+24,resilient,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+24,health,NOUN,"noun, singular or mass",NN,O,
+24,systems,NOUN,"noun, plural",NNS,O,
+24,in,ADP,"conjunction, subordinating or preposition",IN,O,
+24,vulnerable,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+24,countries,NOUN,"noun, plural",NNS,O,
+24,and,CCONJ,"conjunction, coordinating",CC,O,
+24,areas,NOUN,"noun, plural",NNS,O,
+24,",",PUNCT,"punctuation mark, comma",",",O,
+24,including,VERB,"verb, gerund or present participle",VBG,O,
+24,Pacific,PROPN,"noun, proper singular",NNP,B,LOC
+24,islands,NOUN,"noun, plural",NNS,I,LOC
+24,",",PUNCT,"punctuation mark, comma",",",O,
+24,to,PART,"infinitival ""to""",TO,O,
+24,support,VERB,"verb, base form",VB,O,
+24,achievement,NOUN,"noun, singular or mass",NN,O,
+24,of,ADP,"conjunction, subordinating or preposition",IN,O,
+24,the,DET,determiner,DT,O,
+24,target,NOUN,"noun, singular or mass",NN,O,
+24,of,ADP,"conjunction, subordinating or preposition",IN,O,
+24,reducing,VERB,"verb, gerund or present participle",VBG,O,
+24,deaths,NOUN,"noun, plural",NNS,O,
+24,from,ADP,"conjunction, subordinating or preposition",IN,O,
+24,climate,NOUN,"noun, singular or mass",NN,O,
+24,-,PUNCT,"punctuation mark, hyphen",HYPH,O,
+24,sensitive,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+24,diseases,NOUN,"noun, plural",NNS,O,
+24,by,ADP,"conjunction, subordinating or preposition",IN,O,
+24,10,NUM,cardinal number,CD,B,PERCENT
+24,%,NOUN,"noun, singular or mass",NN,I,PERCENT
+24,by,ADP,"conjunction, subordinating or preposition",IN,O,
+24,2023,NUM,cardinal number,CD,B,DATE
+24,.,PUNCT,"punctuation mark, sentence closer",.,O,
+25, ,SPACE,whitespace,_SP,O,
+25,https://www.who.int/westernpacific/news/item/12-12-2019-who-hosts-dialogue-on-climate-change-and-health,PROPN,"noun, proper singular",NNP,O,
+25, ,SPACE,whitespace,_SP,O,
+25,2/3,NUM,cardinal number,CD,B,CARDINAL
+25, ,SPACE,whitespace,_SP,O,
+25,3/18/22,NUM,cardinal number,CD,B,PRODUCT
+25,",",PUNCT,"punctuation mark, comma",",",O,
+25,12:53,NUM,cardinal number,CD,B,TIME
+25,AM,NOUN,"noun, singular or mass",NN,I,TIME
+25, ,SPACE,whitespace,_SP,O,
+25,WHO,PRON,"wh-pronoun, personal",WP,O,
+25,hosts,VERB,"verb, 3rd person singular present",VBZ,O,
+25,dialogue,NOUN,"noun, singular or mass",NN,O,
+25,on,ADP,"conjunction, subordinating or preposition",IN,O,
+25,climate,NOUN,"noun, singular or mass",NN,O,
+25,change,NOUN,"noun, singular or mass",NN,O,
+25,and,CCONJ,"conjunction, coordinating",CC,O,
+25,health,NOUN,"noun, singular or mass",NN,O,
+25, ,SPACE,whitespace,_SP,O,
+25,Water,PROPN,"noun, proper singular",NNP,O,
+25,and,CCONJ,"conjunction, coordinating",CC,O,
+25,the,DET,determiner,DT,O,
+25,living,VERB,"verb, gerund or present participle",VBG,O,
+25,environment,NOUN,"noun, singular or mass",NN,O,
+25,—,PUNCT,"punctuation mark, colon or ellipsis",:,O,
+25,addressing,VERB,"verb, gerund or present participle",VBG,O,
+25,chemical,NOUN,"noun, singular or mass",NN,O,
+25,safety,NOUN,"noun, singular or mass",NN,O,
+25,",",PUNCT,"punctuation mark, comma",",",O,
+25,healthy,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+25,and,CCONJ,"conjunction, coordinating",CC,O,
+25,safe,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+25,transport,NOUN,"noun, singular or mass",NN,O,
+25,",",PUNCT,"punctuation mark, comma",",",O,
+25,environmental,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+25,noise,NOUN,"noun, singular or mass",NN,O,
+25,",",PUNCT,"punctuation mark, comma",",",O,
+25,water,NOUN,"noun, singular or mass",NN,O,
+25,",",PUNCT,"punctuation mark, comma",",",O,
+25,sanitation,NOUN,"noun, singular or mass",NN,O,
+25,",",PUNCT,"punctuation mark, comma",",",O,
+25,hygiene,NOUN,"noun, singular or mass",NN,O,
+25,and,CCONJ,"conjunction, coordinating",CC,O,
+25,wastewater,NOUN,"noun, singular or mass",NN,O,
+25,to,PART,"infinitival ""to""",TO,O,
+25,reduce,VERB,"verb, base form",VB,O,
+25,the,DET,determiner,DT,O,
+25,burden,NOUN,"noun, singular or mass",NN,O,
+25,of,ADP,"conjunction, subordinating or preposition",IN,O,
+25,environmental,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+25,diseases,NOUN,"noun, plural",NNS,O,
+25,and,CCONJ,"conjunction, coordinating",CC,O,
+25,injuries,NOUN,"noun, plural",NNS,O,
+25,and,CCONJ,"conjunction, coordinating",CC,O,
+25,increase,VERB,"verb, base form",VB,O,
+25,access,NOUN,"noun, singular or mass",NN,O,
+25,to,ADP,"conjunction, subordinating or preposition",IN,O,
+25,safely,ADV,adverb,RB,O,
+25,managed,VERB,"verb, past participle",VBN,O,
+25,drinking,NOUN,"noun, singular or mass",NN,O,
+25,water,NOUN,"noun, singular or mass",NN,O,
+25,and,CCONJ,"conjunction, coordinating",CC,O,
+25,sanitation,NOUN,"noun, singular or mass",NN,O,
+25,.,PUNCT,"punctuation mark, sentence closer",.,O,
+26,"
+",SPACE,whitespace,_SP,O,
+26,The,DET,determiner,DT,O,
+26,Centre,PROPN,"noun, proper singular",NNP,O,
+26,is,AUX,"verb, 3rd person singular present",VBZ,O,
+26,a,DET,determiner,DT,O,
+26,key,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+26,instrument,NOUN,"noun, singular or mass",NN,O,
+26,to,PART,"infinitival ""to""",TO,O,
+26,implement,VERB,"verb, base form",VB,O,
+26,the,DET,determiner,DT,B,ORG
+26,WHO,PRON,"wh-pronoun, personal",WP,I,ORG
+26,Regional,PROPN,"noun, proper singular",NNP,I,ORG
+26,Office,PROPN,"noun, proper singular",NNP,I,ORG
+26,for,ADP,"conjunction, subordinating or preposition",IN,I,ORG
+26,the,DET,determiner,DT,I,ORG
+26,Western,PROPN,"noun, proper singular",NNP,I,ORG
+26,Pacific,PROPN,"noun, proper singular",NNP,I,ORG
+26,’s,PUNCT,closing quotation mark,'',I,ORG
+26,For,ADP,"conjunction, subordinating or preposition",IN,O,
+26,the,DET,determiner,DT,O,
+26,Future,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+26,vision,NOUN,"noun, singular or mass",NN,O,
+26,",",PUNCT,"punctuation mark, comma",",",O,
+26,which,PRON,wh-determiner,WDT,O,
+26,identifies,VERB,"verb, 3rd person singular present",VBZ,O,
+26,the,DET,determiner,DT,O,
+26,health,NOUN,"noun, singular or mass",NN,O,
+26,impacts,NOUN,"noun, plural",NNS,O,
+26,of,ADP,"conjunction, subordinating or preposition",IN,O,
+26,climate,NOUN,"noun, singular or mass",NN,O,
+26,and,CCONJ,"conjunction, coordinating",CC,O,
+26,environmental,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+26,change,NOUN,"noun, singular or mass",NN,O,
+26,as,ADP,"conjunction, subordinating or preposition",IN,O,
+26,a,DET,determiner,DT,O,
+26,top,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,O,
+26,priority,NOUN,"noun, singular or mass",NN,O,
+26,.,PUNCT,"punctuation mark, sentence closer",.,O,
+27,"
+",SPACE,whitespace,_SP,O,
+27,It,PRON,"pronoun, personal",PRP,O,
+27,also,ADV,adverb,RB,O,
+27,supports,VERB,"verb, 3rd person singular present",VBZ,O,
+27,the,DET,determiner,DT,O,
+27,objectives,NOUN,"noun, plural",NNS,O,
+27,of,ADP,"conjunction, subordinating or preposition",IN,O,
+27,the,DET,determiner,DT,B,LOC
+27,Western,PROPN,"noun, proper singular",NNP,I,LOC
+27,Pacific,PROPN,"noun, proper singular",NNP,I,LOC
+27,Regional,PROPN,"noun, proper singular",NNP,I,LOC
+27,Framework,PROPN,"noun, proper singular",NNP,I,LOC
+27,for,ADP,"conjunction, subordinating or preposition",IN,O,
+27,Action,PROPN,"noun, proper singular",NNP,B,ORG
+27,on,ADP,"conjunction, subordinating or preposition",IN,I,ORG
+27,Health,PROPN,"noun, proper singular",NNP,I,ORG
+27,and,CCONJ,"conjunction, coordinating",CC,I,ORG
+27,Environment,PROPN,"noun, proper singular",NNP,I,ORG
+27,on,ADP,"conjunction, subordinating or preposition",IN,O,
+27,a,DET,determiner,DT,O,
+27,Changing,VERB,"verb, gerund or present participle",VBG,O,
+27,Planet,PROPN,"noun, proper singular",NNP,O,
+27,",",PUNCT,"punctuation mark, comma",",",O,
+27,endorsed,VERB,"verb, past participle",VBN,O,
+27,by,ADP,"conjunction, subordinating or preposition",IN,O,
+27,Member,PROPN,"noun, proper singular",NNP,O,
+27,States,PROPN,"noun, proper singular",NNP,O,
+27,in,ADP,"conjunction, subordinating or preposition",IN,O,
+27,2016,NUM,cardinal number,CD,B,DATE
+27,",",PUNCT,"punctuation mark, comma",",",O,
+27,as,ADV,adverb,RB,O,
+27,well,ADV,adverb,RB,O,
+27,as,ADP,"conjunction, subordinating or preposition",IN,O,
+27,the,DET,determiner,DT,B,ORG
+27,Declarations,PROPN,"noun, proper plural",NNPS,I,ORG
+27,on,ADP,"conjunction, subordinating or preposition",IN,I,ORG
+27,Environment,PROPN,"noun, proper singular",NNP,I,ORG
+27,and,CCONJ,"conjunction, coordinating",CC,I,ORG
+27,Health,PROPN,"noun, proper singular",NNP,I,ORG
+27,of,ADP,"conjunction, subordinating or preposition",IN,I,ORG
+27,Regional,PROPN,"noun, proper singular",NNP,I,ORG
+27,Ministerial,PROPN,"noun, proper singular",NNP,I,ORG
+27,Forums,PROPN,"noun, proper plural",NNPS,I,ORG
+27,held,VERB,"verb, past participle",VBN,O,
+27,in,ADP,"conjunction, subordinating or preposition",IN,O,
+27,Jeju,PROPN,"noun, proper singular",NNP,B,FAC
+27,in,ADP,"conjunction, subordinating or preposition",IN,O,
+27,2010,NUM,cardinal number,CD,B,DATE
+27,",",PUNCT,"punctuation mark, comma",",",O,
+27,Kuala,PROPN,"noun, proper singular",NNP,B,GPE
+27,Lumpur,PROPN,"noun, proper singular",NNP,I,GPE
+27,in,ADP,"conjunction, subordinating or preposition",IN,O,
+27,2013,NUM,cardinal number,CD,B,DATE
+27,and,CCONJ,"conjunction, coordinating",CC,O,
+27,Manila,PROPN,"noun, proper singular",NNP,B,GPE
+27,in,ADP,"conjunction, subordinating or preposition",IN,O,
+27,2016,NUM,cardinal number,CD,B,DATE
+27,.,PUNCT,"punctuation mark, sentence closer",.,O,
+28,"
+",SPACE,whitespace,_SP,O,
+29,The,DET,determiner,DT,O,
+29,37,NUM,cardinal number,CD,B,CARDINAL
+29,countries,NOUN,"noun, plural",NNS,O,
+29,and,CCONJ,"conjunction, coordinating",CC,O,
+29,areas,NOUN,"noun, plural",NNS,O,
+29,of,ADP,"conjunction, subordinating or preposition",IN,O,
+29,the,DET,determiner,DT,O,
+29,WHO,PRON,"wh-pronoun, personal",WP,O,
+29,Western,PROPN,"noun, proper singular",NNP,O,
+29,Pacific,PROPN,"noun, proper singular",NNP,O,
+29,Region,PROPN,"noun, proper singular",NNP,O,
+29,are,AUX,"verb, non-3rd person singular present",VBP,O,
+29,:,PUNCT,"punctuation mark, colon or ellipsis",:,O,
+29,Australia,PROPN,"noun, proper singular",NNP,B,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Brunei,PROPN,"noun, proper singular",NNP,B,GPE
+29,Darussalam,PROPN,"noun, proper singular",NNP,I,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Cambodia,PROPN,"noun, proper singular",NNP,B,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,China,PROPN,"noun, proper singular",NNP,B,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Cook,PROPN,"noun, proper singular",NNP,B,GPE
+29,Islands,PROPN,"noun, proper singular",NNP,I,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Fiji,PROPN,"noun, proper singular",NNP,B,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,France,PROPN,"noun, proper singular",NNP,B,GPE
+29,(,PUNCT,left round bracket,-LRB-,O,
+29,which,PRON,wh-determiner,WDT,O,
+29,has,VERB,"verb, 3rd person singular present",VBZ,O,
+29,responsibility,NOUN,"noun, singular or mass",NN,O,
+29,for,ADP,"conjunction, subordinating or preposition",IN,O,
+29,French,ADJ,"adjective (English), other noun-modifier (Chinese)",JJ,B,NORP
+29,Polynesia,PROPN,"noun, proper singular",NNP,B,PERSON
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,New,PROPN,"noun, proper singular",NNP,B,GPE
+29,Caledonia,PROPN,"noun, proper singular",NNP,I,GPE
+29,and,CCONJ,"conjunction, coordinating",CC,O,
+29,Wallis,PROPN,"noun, proper singular",NNP,O,
+29,and,CCONJ,"conjunction, coordinating",CC,O,
+29,Futuna,PROPN,"noun, proper singular",NNP,O,
+29,),PUNCT,right round bracket,-RRB-,O,
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Hong,PROPN,"noun, proper singular",NNP,B,GPE
+29,Kong,PROPN,"noun, proper singular",NNP,I,GPE
+29,SAR,PROPN,"noun, proper singular",NNP,O,
+29,(,PUNCT,left round bracket,-LRB-,O,
+29,China,PROPN,"noun, proper singular",NNP,B,GPE
+29,),PUNCT,right round bracket,-RRB-,O,
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Japan,PROPN,"noun, proper singular",NNP,B,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Kiribati,PROPN,"noun, proper singular",NNP,B,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Lao,PROPN,"noun, proper singular",NNP,B,ORG
+29,People,PROPN,"noun, proper plural",NNPS,I,ORG
+29,’s,PART,possessive ending,POS,I,ORG
+29,Democratic,PROPN,"noun, proper singular",NNP,I,ORG
+29,Republic,PROPN,"noun, proper singular",NNP,I,ORG
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Macao,PROPN,"noun, proper singular",NNP,B,GPE
+29,SAR,PROPN,"noun, proper singular",NNP,O,
+29,(,PUNCT,left round bracket,-LRB-,O,
+29,China,PROPN,"noun, proper singular",NNP,B,GPE
+29,),PUNCT,right round bracket,-RRB-,O,
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Malaysia,PROPN,"noun, proper singular",NNP,B,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Marshall,PROPN,"noun, proper singular",NNP,B,GPE
+29,Islands,PROPN,"noun, proper singular",NNP,I,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Micronesia,PROPN,"noun, proper singular",NNP,B,PERSON
+29,(,PUNCT,left round bracket,-LRB-,O,
+29,Federated,PROPN,"noun, proper singular",NNP,B,GPE
+29,States,PROPN,"noun, proper singular",NNP,I,GPE
+29,of,ADP,"conjunction, subordinating or preposition",IN,O,
+29,),PUNCT,right round bracket,-RRB-,O,
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Mongolia,PROPN,"noun, proper singular",NNP,B,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Nauru,PROPN,"noun, proper singular",NNP,B,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,New,PROPN,"noun, proper singular",NNP,B,GPE
+29,Zealand,PROPN,"noun, proper singular",NNP,I,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Niue,PROPN,"noun, proper singular",NNP,B,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Palau,PROPN,"noun, proper singular",NNP,B,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Papua,PROPN,"noun, proper singular",NNP,B,GPE
+29,New,PROPN,"noun, proper singular",NNP,I,GPE
+29,Guinea,PROPN,"noun, proper singular",NNP,I,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Philippines,PROPN,"noun, proper singular",NNP,B,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Republic,PROPN,"noun, proper singular",NNP,B,GPE
+29,of,ADP,"conjunction, subordinating or preposition",IN,I,GPE
+29,Korea,PROPN,"noun, proper singular",NNP,I,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Samoa,PROPN,"noun, proper singular",NNP,B,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Singapore,PROPN,"noun, proper singular",NNP,B,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Solomon,PROPN,"noun, proper singular",NNP,B,GPE
+29,Islands,PROPN,"noun, proper singular",NNP,I,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Tokelau,PROPN,"noun, proper singular",NNP,B,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Tonga,PROPN,"noun, proper singular",NNP,B,GPE
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Tuvalu,PROPN,"noun, proper singular",NNP,B,ORG
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,the,DET,determiner,DT,B,GPE
+29,United,PROPN,"noun, proper singular",NNP,I,GPE
+29,Kingdom,PROPN,"noun, proper singular",NNP,I,GPE
+29,of,ADP,"conjunction, subordinating or preposition",IN,I,GPE
+29,Great,PROPN,"noun, proper singular",NNP,I,GPE
+29,Britain,PROPN,"noun, proper singular",NNP,I,GPE
+29,and,CCONJ,"conjunction, coordinating",CC,O,
+29,Northern,PROPN,"noun, proper singular",NNP,B,GPE
+29,Ireland,PROPN,"noun, proper singular",NNP,I,GPE
+29,(,PUNCT,left round bracket,-LRB-,O,
+29,which,PRON,wh-determiner,WDT,O,
+29,has,VERB,"verb, 3rd person singular present",VBZ,O,
+29,responsibility,NOUN,"noun, singular or mass",NN,O,
+29,for,ADP,"conjunction, subordinating or preposition",IN,O,
+29,Pitcairn,PROPN,"noun, proper singular",NNP,B,GPE
+29,Islands,PROPN,"noun, proper singular",NNP,I,GPE
+29,),PUNCT,right round bracket,-RRB-,O,
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,the,DET,determiner,DT,B,GPE
+29,United,PROPN,"noun, proper singular",NNP,I,GPE
+29,States,PROPN,"noun, proper singular",NNP,I,GPE
+29,of,ADP,"conjunction, subordinating or preposition",IN,I,GPE
+29,America,PROPN,"noun, proper singular",NNP,I,GPE
+29,(,PUNCT,left round bracket,-LRB-,O,
+29,which,PRON,wh-determiner,WDT,O,
+29,has,VERB,"verb, 3rd person singular present",VBZ,O,
+29,responsibility,NOUN,"noun, singular or mass",NN,O,
+29,for,ADP,"conjunction, subordinating or preposition",IN,O,
+29,American,PROPN,"noun, proper singular",NNP,B,ORG
+29,Samoa,PROPN,"noun, proper singular",NNP,I,ORG
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Guam,PROPN,"noun, proper singular",NNP,B,GPE
+29,and,CCONJ,"conjunction, coordinating",CC,O,
+29,the,DET,determiner,DT,O,
+29,Northern,PROPN,"noun, proper singular",NNP,O,
+29,Mariana,PROPN,"noun, proper singular",NNP,O,
+29,Islands,PROPN,"noun, proper singular",NNP,O,
+29,),PUNCT,right round bracket,-RRB-,O,
+29,",",PUNCT,"punctuation mark, comma",",",O,
+29,Vanuatu,PROPN,"noun, proper singular",NNP,B,ORG
+29,and,CCONJ,"conjunction, coordinating",CC,O,
+29,Viet,PROPN,"noun, proper singular",NNP,B,GPE
+29,Nam,PROPN,"noun, proper singular",NNP,I,GPE
+29,.,PUNCT,"punctuation mark, sentence closer",.,O,
+30,"
+",SPACE,whitespace,_SP,O,
+30,For,ADP,"conjunction, subordinating or preposition",IN,O,
+30,more,ADJ,"adjective, comparative",JJR,O,
+30,information,NOUN,"noun, singular or mass",NN,O,
+30,please,INTJ,interjection,UH,O,
+30,contact,NOUN,"noun, singular or mass",NN,O,
+30,:,PUNCT,"punctuation mark, colon or ellipsis",:,O,
+30, ,SPACE,whitespace,_SP,O,
+30,Ms,PROPN,"noun, proper singular",NNP,O,
+30,Yichuan,PROPN,"noun, proper singular",NNP,O,
+30,Zhuang,PROPN,"noun, proper singular",NNP,O,
+30,",",PUNCT,"punctuation mark, comma",",",O,
+30,Programme,PROPN,"noun, proper singular",NNP,B,ORG
+30,Management,PROPN,"noun, proper singular",NNP,I,ORG
+30,and,CCONJ,"conjunction, coordinating",CC,O,
+30,Administrative,PROPN,"noun, proper singular",NNP,O,
+30,Officer,PROPN,"noun, proper singular",NNP,O,
+30,",",PUNCT,"punctuation mark, comma",",",O,
+30,zhuangy@who.int,NOUN,"noun, singular or mass",NN,O,
+30,",",PUNCT,"punctuation mark, comma",",",O,
+30,Tel,PROPN,"noun, proper singular",NNP,B,PERSON
+30,+82(0)10,NUM,cardinal number,CD,I,PERSON
+30,-,NOUN,"noun, singular or mass",NN,I,PERSON
+30,6474,NUM,cardinal number,CD,I,PERSON
+30,-,SYM,symbol,SYM,I,PERSON
+30,0099,NUM,cardinal number,CD,I,PERSON
+30, ,SPACE,whitespace,_SP,O,
+30,https://www.who.int/westernpacific/news/item/12-12-2019-who-hosts-dialogue-on-climate-change-and-health,PROPN,"noun, proper singular",NNP,O,
+30, ,SPACE,whitespace,_SP,O,
+30,3/3,NUM,cardinal number,CD,O,

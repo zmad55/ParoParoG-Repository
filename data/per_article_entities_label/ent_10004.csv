@@ -1,58 +1,60 @@
 Word,Label
-3/18/22,PRODUCT
-12:50 AM,TIME
-DOH,ORG
-RITM,PERSON
-DOH,ORG
-RITM,ORG
-Manila,GPE
-The Department of Health,ORG
-DOH,ORG
-the Research Institute for Tropical Medicine,ORG
-the World Health Organization,ORG
-seven,CARDINAL
-Philippines,GPE
-P36 million,PRODUCT
-Health,ORG
-Francisco T. Duque III,PERSON
+12:52 AM,TIME
+MANILA,GPE
+PHILIPPINES,GPE
+Asia,LOC
+Pacific,LOC
+UHC,ORG
 today,DATE
-"January 20, 2022",DATE
-DOH,ORG
-Japanese,NORP
-RITM,PERSON
-Ilocos Training and Regional Medical Center,ORG
-Jose B. Lingad,PERSON
-Western Visayas Medical Center,ORG
-Vicente Sotto Medical Center,ORG
-Zamboanga Medical Center,ORG
+Asia,LOC
+Pacific,LOC
+COVID-19,PERSON
+Beyond,PRODUCT
+the World Health Organization,ORG
+the Western Pacific,ORG
+Takeshi Kasai,PERSON
+COVID-19,PERSON
+https://www.who.int/westernpacific/news/item/17-09-2020-asia-pacific-health-and-finance-ministers-stress-importance-of-universal-health-coverage-in-,PERSON
 1/2,CARDINAL
 3/18/22,PRODUCT
-12:50 AM,TIME
-DOH,ORG
-RITM,PERSON
-Cotabato Regional,ORG
-Medical Center,ORG
-the last decade,DATE
+12:52 AM,TIME
+WHO,ORG
+South-East Asia,LOC
+the Western Pacific,LOC
+the Asian Development Bank,ORG
+Japan,GPE
+UHC,ORG
+G20,ORG
+Osaka,GPE
+June 2019,DATE
+the United Nations,ORG
+UHC,ORG
+New York,GPE
+September 2019,DATE
+today,DATE
+Fiji,GPE
+Indonesia,GPE
+the Republic of Korea,GPE
 Philippines,GPE
-Filipino,LANGUAGE
-Health,ORG
-Francisco T. Duque III,PERSON
-RITM,PERSON
-RITM,PERSON
-Celia Carlos,PERSON
-the coming months,DATE
-RITM,PERSON
-RITM,PERSON
-the year,DATE
-DOH,ORG
-RITM,PERSON
-COVID-19,ORG
-Rabindra Abeyasinghe,PERSON
-Philippines,GPE
-RITM,PERSON
-National Reference Laboratory,ORG
-JapaneseEncephalitis Virus,ORG
-Rubella Virus,PERSON
-DOH,ORG
-RITM,PERSON
+Sri Lanka,GPE
+Viet Nam,GPE
+2019,DATE
+UHC,ORG
+the past decade,DATE
+UHC,ORG
+up to,PERCENT
+60%,PERCENT
+more than 1,CARDINAL
+5,CARDINAL
+over 10%,PERCENT
+UHC,ORG
+the Western Pacific,LOC
+Future,ORG
+the coming years,DATE
+Masatsugu Asakawa,PERSON
+UHC,ORG
+Asia,LOC
+Pacific,LOC
+the Western Pacific,LOC
+the Western Pacific Region,LOC
 2/2,CARDINAL

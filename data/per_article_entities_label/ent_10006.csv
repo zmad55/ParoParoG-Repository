@@ -1,83 +1,56 @@
 Word,Label
-3/18/22,CARDINAL
-12:51 AM,TIME
-EU,ORG
-WHO,ORG
-EU,ORG
-WHO,ORG
-December 2021,DATE
-Manila  Representatives,ORG
-the European Union,ORG
-the World Health Organization,ORG
-over 200,CARDINAL
-DOH,ORG
-Dr Francisco,PERSON
-PHP,ORG
-7 million,CARDINAL
-the European Union’s,ORG
+12:52 AM,TIME
+Contact Tracing  Western Pacific Philippines,ORG
 Philippines,GPE
-250,CARDINAL
-PHP,ORG
-2.6 million,CARDINAL
-11,CARDINAL
-seven,CARDINAL
-EU,ORG
-States,GPE
-35 million,CARDINAL
+November 2021,DATE
+Itogon,GPE
+Benguet,ORG
+Gladys Gapongli,PERSON
+Itogon,GPE
+Benguet,ORG
 Philippines,GPE
-EU,ORG
+one,CARDINAL
+400,CARDINAL
+the Home as Active Advocate and Network,ORG
+HAAN COVID,WORK_OF_ART
+Families Choice for Health and Development,ORG
+Civil Society Organization,ORG
+CSO,ORG
 Philippines,GPE
-WHO,ORG
-H. E. Luc Véron,PERSON
-EU,ORG
+Ilocano,ORG
+Benguet,ORG
+Benguet,ORG
+October 2020,DATE
 Philippines,GPE
-https://www.who.int/philippines/news/detail/10-12-2021-the-who-and-the-eu-provide-lifesaving-medical-grade-oxygen-for-preparedness-against-new-c,ORG
+healthcare,ORG
 1/3,CARDINAL
 3/18/22,PRODUCT
-12:51 AM  ,TIME
-EU,ORG
-WHO,ORG
-11,CARDINAL
-Batanes General Hospital,ORG
-Zamboanga City Medical Center,ORG
-the Zamboanga City Medical Center,ORG
-About 20%,PERCENT
-Dr Rabindra Abeyasinghe,PERSON
+12:52 AM,TIME
+early 2021,DATE
+Families Choice,ORG
 Philippines,GPE
-the Department of Health,ORG
-Omicron,ORG
+Home Health Trackers,WORK_OF_ART
+daily,DATE
+Trackers,ORG
+FC,PERSON
+IEC,ORG
+Trackers,ORG
+FC,ORG
 Philippines,GPE
-only five,CARDINAL
-Luzon Island,GPE
-Around half,CARDINAL
-DOH,ORG
-34,CARDINAL
+Gumatdang,ORG
+Itogon,GPE
+Benguet,ORG
+"2,163",CARDINAL
+2015,DATE
 2/3,CARDINAL
 3/18/22,PRODUCT
-12:51 AM  ,TIME
-EU,ORG
-WHO,ORG
-66,CARDINAL
-The Zamboanga City Medical Center,WORK_OF_ART
-EU,ORG
-Afdal B Kunting,PERSON
-Medical Center Chief II,ORG
-EU,ORG
-WHO,ORG
-Esterlina Tan,PERSON
-Hospital of Siargao Island Hospital,ORG
-WHO,ORG
-European Union,ORG
+12:52 AM,TIME
+the Home as Active Advocate and Network to COVID Prevention and Control (HAAN COVID,ORG
+Gumatdang village,GPE
+Itogon municipality,GPE
+Benguet province,GPE
 Philippines,GPE
-Filipinos,NORP
-Omicron,ORG
-COVID-19,ORG
-Health,ORG
-Francisco T. Duque III,PERSON
-Thelma Gecolea Public Affairs,PERSON
-the European Union,ORG
-Philippines,GPE
-Philippines,GPE
-2064 |junior@who.int,DATE
-https://www.who.int/philippines/news/detail/10-12-2021-the-who-and-the-eu-provide-lifesaving-medical-grade-oxygen-for-preparedness-against-new-c,ORG
-3/3,CARDINAL
+24 June 2021,DATE
+Aida Gonzales,PERSON
+Families Choice for Health and Development,ORG
+Response,ORG

@@ -1,60 +1,95 @@
 Word,Label
-12:52 AM,TIME
-MANILA,GPE
-PHILIPPINES,GPE
-Asia,LOC
-Pacific,LOC
-UHC,ORG
-today,DATE
-Asia,LOC
-Pacific,LOC
-COVID-19,PERSON
-Beyond,PRODUCT
-the World Health Organization,ORG
-the Western Pacific,ORG
-Takeshi Kasai,PERSON
-COVID-19,PERSON
-https://www.who.int/westernpacific/news/item/17-09-2020-asia-pacific-health-and-finance-ministers-stress-importance-of-universal-health-coverage-in-,PERSON
-1/2,CARDINAL
-3/18/22,PRODUCT
-12:52 AM,TIME
-WHO,ORG
-South-East Asia,LOC
-the Western Pacific,LOC
-the Asian Development Bank,ORG
-Japan,GPE
-UHC,ORG
-G20,ORG
-Osaka,GPE
-June 2019,DATE
-the United Nations,ORG
-UHC,ORG
-New York,GPE
-September 2019,DATE
-today,DATE
-Fiji,GPE
-Indonesia,GPE
-the Republic of Korea,GPE
+3/18/22,CARDINAL
+12:53 AM,TIME
+US Government,ORG
+COVAX Facility  Western Pacific Philippines,ORG
+US Government,ORG
+COVAX Facility  3 August 2021,ORG
+Philippine,NORP
+Rodrigo Duterte,PERSON
+3 million,CARDINAL
+Moderna,GPE
+19,CARDINAL
+the US Government,ORG
+the COVAX Facility,ORG
+Manila,GPE
+Delta,LOC
+COVID-19,ORG
 Philippines,GPE
-Sri Lanka,GPE
-Viet Nam,GPE
-2019,DATE
-UHC,ORG
-the past decade,DATE
-UHC,ORG
-up to,PERCENT
-60%,PERCENT
-more than 1,CARDINAL
-5,CARDINAL
-over 10%,PERCENT
-UHC,ORG
-the Western Pacific,LOC
-Future,ORG
-the coming years,DATE
-Masatsugu Asakawa,PERSON
-UHC,ORG
-Asia,LOC
-Pacific,LOC
-the Western Pacific,LOC
-the Western Pacific Region,LOC
-2/2,CARDINAL
+13.2 million,CARDINAL
+6 million,CARDINAL
+the US Government,ORG
+at least 80 million,CARDINAL
+the COVAX Facility,ORG
+the US Government,ORG
+Manila,GPE
+Health Francisco T. Duque III,ORG
+The Philippine Government,ORG
+"more than 500,000",CARDINAL
+daily,DATE
+March 2021,DATE
+84 percent,PERCENT
+A1,PRODUCT
+32 percent,PERCENT
+A2,NORP
+48 percent,PERCENT
+less than 5 percent,PERCENT
+A4,NORP
+2 percent,PERCENT
+A5,ORG
+1/4,CARDINAL
+3/18/22,PRODUCT
+12:53 AM,TIME
+US Government,ORG
+COVAX Facility  The Department of Health,ORG
+A2,PRODUCT
+A3,PRODUCT
+Gavi,PERSON
+the Coalition for Epidemic Preparedness Innovations,ORG
+the World Health Organization,ORG
+WHO,ORG
+US,GPE
+US,GPE
+Philippines,GPE
+Rabindra Abeyasinghe,PERSON
+Philippines,GPE
+Oyunsaikhan Dendevnorov,PERSON
+UNICEF Philippines Country Representative,ORG
+WHO,ORG
+UNICEF,ORG
+NCR,ORG
+2/4,CARDINAL
+3/18/22,PRODUCT
+12:53 AM,TIME
+US Government,ORG
+COVAX Facility     About COVAX  COVAX,ORG
+Access,PRODUCT
+COVID-19 Tools,PERSON
+the Coalition for Epidemic Preparedness Innovations (CEPI,ORG
+Gavi,PERSON
+the Vaccine Alliance,ORG
+the World Health Organization,ORG
+the World Bank,ORG
+19,CARDINAL
+DOH,ORG
+Lindsay Orsolino,PERSON
+lmorsolino@doh.gov.ph,GPE
+Philippines,GPE
+3/4,CARDINAL
+3/18/22,CARDINAL
+12:53 AM,TIME
+US Government,ORG
+COVAX Facility  Jun Ryan Orbina,ORG
+Philippines,GPE
+Communication Officer,ORG
+Philippines,GPE
+junior@who.int,GPE
+2064,CARDINAL
+UNICEF Philippines,GPE
+nmwieland@unicef.org,ORG
+917 867 8366,MONEY
+Marge Francia,PERSON
+Communication Officer,ORG
+UNICEF Philippines,ORG
+mfrancia@unicef.org,GPE
+4/4,CARDINAL

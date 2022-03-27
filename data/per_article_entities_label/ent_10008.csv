@@ -1,51 +1,55 @@
 Word,Label
-3/18/22,CARDINAL
-12:54 AM,TIME
-March 2017,DATE
-Manila,GPE
+9:51 PM  ,TIME
+month-long,DATE
+Western Pacific Philippines,ORG
+measles- rubella,ORG
+February 1,DATE
+MR-OPV SIA,ORG
+last year,DATE
+Mindanao,GPE
+Cordillera,GPE
+Ilocos,GPE
+Cagayan Valley,GPE
+MIMAROPA,ORG
+Bicol Regions,PERSON
+93%,PERCENT
+Measles-Rubella,ORG
+Vaccine,PERSON
+89%,PERCENT
+Oral Polio Vaccine,ORG
+the Phase II,PRODUCT
+"February 1 to 28, 2021",DATE
+the Visayas Regions,EVENT
+National Capital Region,ORG
+Central Luzon,LOC
+CALABARZON,ORG
+5.1 million,CARDINAL
+9-59 months old,DATE
+MR,ORG
+4.8 million,CARDINAL
+0-59 months old,DATE
+OPV,ORG
+the Department of Health,ORG
+DOH,ORG
+last 2019,DATE
+the Acute Flaccid Paralysis,ORG
+1/2,CARDINAL
+3/27/22,PRODUCT
+9:51 PM  ,TIME
+month-long,DATE
+DOH,ORG
 Philippines,GPE
-International Women's,ORG
-8 March,DATE
-the World Health Organization,ORG
-WHO,ORG
-the Western Pacific Region,LOC
-International Women’s Day,ORG
-Shin Young-soo,PERSON
-the Western Pacific,ORG
-nearly 1.9 billion,CARDINAL
-more than a quarter,DATE
-1/3,CARDINAL
-3/18/22,PRODUCT
-12:54 AM,TIME
-Cambodia,GPE
+Rabindra Abeyasinghe,PERSON
+DOH,ORG
 Philippines,GPE
-under 5 years of age,DATE
-WHO,ORG
-the Sustainable Development Goals,ORG
-2030,DATE
-One,CARDINAL
-Dr Shin,PERSON
-International Women’s Day,ORG
-the WHO Regional Office,ORG
-later this year,DATE
-Philippines,GPE
-China,GPE
-Mongolia,GPE
-1975,DATE
-International Women's Day,ORG
-year,DATE
-50-50,CARDINAL
-2030,DATE
-https://www.who.int/westernpacific/news/item/05-03-2017-gender-equality-makes-everyone-healthier-who,ORG
-2/3,CARDINAL
-3/18/22,PRODUCT
-12:54 AM,TIME
-the International Women's,ORG
-today,DATE
-the Western Pacific Region,LOC
-Dr Shin,PERSON
-every day,DATE
-today,DATE
-528 9993,CARDINAL
-serranor@who.int,CARDINAL
-3/3,CARDINAL
+USAID,ORG
+US,GPE
+CDC,ORG
+second,ORDINAL
+the MR-OPV SIA,ORG
+UNICEF Philippines,ORG
+Oyunsaikhan Dendevnorov,PERSON
+Health,ORG
+Francisco T. Duque III,PERSON
+Health,ORG
+2/2,CARDINAL

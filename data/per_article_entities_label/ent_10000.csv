@@ -1,95 +1,74 @@
 Word,Label
-3/18/22,CARDINAL
-12:53 AM,TIME
-US Government,ORG
-COVAX Facility  Western Pacific Philippines,ORG
-US Government,ORG
-COVAX Facility  3 August 2021,ORG
-Philippine,NORP
-Rodrigo Duterte,PERSON
-3 million,CARDINAL
-Moderna,GPE
-19,CARDINAL
-the US Government,ORG
-the COVAX Facility,ORG
-Manila,GPE
-Delta,LOC
-COVID-19,ORG
-Philippines,GPE
-13.2 million,CARDINAL
-6 million,CARDINAL
-the US Government,ORG
-at least 80 million,CARDINAL
-the COVAX Facility,ORG
-the US Government,ORG
-Manila,GPE
-Health Francisco T. Duque III,ORG
-The Philippine Government,ORG
-"more than 500,000",CARDINAL
-daily,DATE
-March 2021,DATE
-84 percent,PERCENT
-A1,PRODUCT
-32 percent,PERCENT
-A2,NORP
-48 percent,PERCENT
-less than 5 percent,PERCENT
-A4,NORP
-2 percent,PERCENT
-A5,ORG
-1/4,CARDINAL
-3/18/22,PRODUCT
-12:53 AM,TIME
-US Government,ORG
-COVAX Facility  The Department of Health,ORG
-A2,PRODUCT
-A3,PRODUCT
-Gavi,PERSON
-the Coalition for Epidemic Preparedness Innovations,ORG
-the World Health Organization,ORG
-WHO,ORG
-US,GPE
-US,GPE
-Philippines,GPE
-Rabindra Abeyasinghe,PERSON
-Philippines,GPE
-Oyunsaikhan Dendevnorov,PERSON
-UNICEF Philippines Country Representative,ORG
-WHO,ORG
-UNICEF,ORG
-NCR,ORG
-2/4,CARDINAL
-3/18/22,PRODUCT
-12:53 AM,TIME
-US Government,ORG
-COVAX Facility     About COVAX  COVAX,ORG
-Access,PRODUCT
-COVID-19 Tools,PERSON
-the Coalition for Epidemic Preparedness Innovations (CEPI,ORG
-Gavi,PERSON
-the Vaccine Alliance,ORG
-the World Health Organization,ORG
-the World Bank,ORG
-19,CARDINAL
+9:28 PM,TIME
+"488,000",CARDINAL
+Basilan,PERSON
+Sulu,PERSON
+Western Pacific Philippines,ORG
+"488,000",CARDINAL
+Basilan,PERSON
+Sulu,PERSON
+January 2020,DATE
+Cotobato City,GPE
+The World Health Organization,ORG
+United Nations Children’s Fund,ORG
+the Department of Health,ORG
 DOH,ORG
-Lindsay Orsolino,PERSON
-lmorsolino@doh.gov.ph,GPE
+"Basilan, Sulu and Tawi-tawi",ORG
+"488,000",CARDINAL
+under 10 years old,DATE
+BaSulTa,GPE
+three,CARDINAL
+1,CARDINAL
+ten years old,DATE
+January 6 to 12,DATE
+Zamboanga City,GPE
+Mindanao,ORG
+"January 20 to February 2, February 17 to March 1",DATE
+"March 23 to April 4, 2020",DATE
+DOH,ORG
 Philippines,GPE
-3/4,CARDINAL
-3/18/22,CARDINAL
-12:53 AM,TIME
-US Government,ORG
-COVAX Facility  Jun Ryan Orbina,ORG
+"last September 19, 2019",DATE
+first,ORDINAL
+2,CARDINAL
+Marogong,GPE
+Lanao del Sur,PERSON
+November 26,DATE
+DOH,ORG
+1,CARDINAL
+Maluso,PERSON
+Basilan,PERSON
+December 6,DATE
+first,ORDINAL
+27 years,DATE
+Sabah,GPE
+Malaysia,GPE
+Basilan,PERSON
+1/2,CARDINAL
+3/27/22,PRODUCT
+9:28 PM,TIME
+"488,000",CARDINAL
+Basilan,PERSON
+Sulu,PERSON
+Lessons,PRODUCT
+Bangsamoro Autonomous Region,GPE
+Muslim,NORP
+Mindanao,GPE
+BARMM,ORG
+DOH,ORG
+Bangsamoro,ORG
+WHO,ORG
+DOH,ORG
+Dr Rabindra Abeyasinghe,PERSON
 Philippines,GPE
-Communication Officer,ORG
+BARMM,GPE
 Philippines,GPE
-junior@who.int,GPE
-2064,CARDINAL
-UNICEF Philippines,GPE
-nmwieland@unicef.org,ORG
-917 867 8366,MONEY
-Marge Francia,PERSON
-Communication Officer,ORG
-UNICEF Philippines,ORG
-mfrancia@unicef.org,GPE
-4/4,CARDINAL
+Andrew Morris,PERSON
+Mindanao Field Office,ORG
+DOH,ORG
+Ministry of Health BARMM,ORG
+UNICEF,ORG
+UNICEF,ORG
+UNICEF,ORG
+DOH,ORG
+DOH,ORG
+2/2,CARDINAL
